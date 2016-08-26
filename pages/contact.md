@@ -2,11 +2,12 @@
 layout: page
 title: "Contact"
 meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+# subheadline: "Wufoo-powered contact forms"
+# teaser: "Get in touch with me? Use the contact form."
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
+주소: 경기도 부천시 원미구 소향로 13, 407호 (우) 14544
 
-
- [1]: http://www.wufoo.com/
+TEL. (032) 321-5396
+FAX. (032) 321-5468
+Email. hankookfa@hankookfa.com

@@ -6,43 +6,49 @@
   url: "/introduction/"
   side: left
 
-- title: "취급품목"
-  url: "/design/"
+- title: "유휴장비"
+  url: "/smt-equipment/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
+  - title: "Package Sale"
+    url: "/smt-equipment/package-sale/"
+  - title: "Chip Mounters"
+    url: "/smt-equipment/chip-mounters/"
+  - title: "Feeders and Spare Parts"
+    url: "/smt-equipment/feeders-and-spare-parts/"
+  - title: "Reflow Ovens"
+    url: "/smt-equipment/reflow-ovens/"
+  - title: "Screen Printing Equipment"
+    url: "/smt-equipment/screen-printing-equipment/"
+  - title: "Loaders, Unloaders and Conveyors"
+    url: "/smt-equipment/loaders-unloaders-and-conveyors/"
+  - title: "AOI and SPI"
+    url: "/smt-equipment/aoi-and-spi/"
+  - title: "X-Ray Equipment"
+    url: "/smt-equipment/x-ray-equipment/"
+  - title: "Wave Solder Equipment"
+    url: "/smt-equipment/wave-solder-equipment/"
+  - title: "Auto Insert Machines"
+    url: "/smt-equipment/auto-insert-machines/"
+  - title: "Tape & Reel Equipment"
+    url: "/smt-equipment/tape-and-reel-equipment/"
+  - title: "Inspection Equipment"
+    url: "/smt-equipment/inspection-equipment/"
 
-- title: "유휴장비"
+- title: "Stock List"
   url: "/headers/"
   side: left
   dropdown:
+  - title: "Chip Mounters"
+    url: "/smt-equipment/chip-mounters/"
   - title: "Header with Full-Width-Image"
     url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
+  - title: "Reflow Ovens"
+    url: "/smt-equipment/reflow-ovens/"
   - title: "Header with image and color"
     url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
+  - title: "X-Ray Equipment"
+    url: "/smt-equipment/x-ray-equipment/"
   - title: "Header With Text"
     url: "/design/header-with-text/"
   - title: "No Header"
@@ -50,21 +56,21 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
-  url: "/documentation/"
-  side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
-
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+# - title: Documentation
+#   url: "/documentation/"
+#   side: left
+#   dropdown:
+#   - title: "Changelog"
+#     url: "/changelog/"
+#   - title: "Roadmap"
+#     url: "/roadmap/"
+#
+# - title: Blog
+#   url: "/blog/"
+#   side: left
+#   dropdown:
+#   - title: "Blog Archive"
+#     url: "/blog/archive/"
 
 - title: "Search"
   url: "/search/"

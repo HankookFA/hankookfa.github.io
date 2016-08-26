@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://localhost:4000/</id>
+	<title>Hankook FA</title>
+	<updated>2016-08-26T16:37:12+09:00</updated>
+
+	<subtitle>검색엔진에 잘 검색되기 위한 150자 내의 설명.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>Hankook FA</name>
+			
+			
+			
+		</author>
+	
+
+	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="3.0.2">Jekyll</generator>
+
+	
+		<entry>
+			<id>http://localhost:4000/smt-equipment/package-sale/</id>
+			<title>Package Sale</title>
+			<link href="http://localhost:4000/smt-equipment/package-sale/" rel="alternate" type="text/html" title="Package Sale" />
+			<updated>2016-08-26T00:00:00+09:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Hankook FA</name>
+					
+					
+						<email>hankookfa@hankookfa.com</email>
+					
+					
+						<uri>http://hankookfa.com/</uri>
+					
+				</author>
+			
+			<summary>This is a example of page/post with a sidebar on the left.</summary>
+			<content type="html" xml:base="http://localhost:4000/smt-equipment/package-sale/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:***
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: true
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;If you don’t want to show metadata, it’s simple again:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: false
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/package-sale/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Package Sale&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/chip-mounters/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Chip Mounters&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/feeders-and-spare-parts/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Feeders and Spare Parts&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/reflow-ovens/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Reflow Ovens&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/screen-printing-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Screen Printing Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/loaders-unloaders-and-conveyors/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Loaders, Unloaders and Conveyors&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/aoi-and-spi/&quot;&gt;Templates &amp;middot; &lt;strong&gt;AOI and SPI&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/x-ray-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;X-Ray Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/wave-solder-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Wave Solder Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/auto-insert-machines/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Auto Insert Machines&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/tape-and-reel-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Tape &amp;amp; Reel Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/inspection-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Inspection Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="smt-equipment" />
+			
+			
+				<category term="post format" />
+			
+
+			<published>2016-08-26T00:00:00+09:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/smt-equipment/chip-mounters/</id>
+			<title>Chip Mounters</title>
+			<link href="http://localhost:4000/smt-equipment/chip-mounters/" rel="alternate" type="text/html" title="Chip Mounters" />
+			<updated>2016-08-25T00:00:00+09:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Hankook FA</name>
+					
+					
+						<email>hankookfa@hankookfa.com</email>
+					
+					
+						<uri>http://hankookfa.com/</uri>
+					
+				</author>
+			
+			<summary>This is a example of page/post with a sidebar on the left.</summary>
+			<content type="html" xml:base="http://localhost:4000/smt-equipment/chip-mounters/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:***
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: true
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;If you don’t want to show metadata, it’s simple again:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: false
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/package-sale/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Package Sale&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/chip-mounters/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Chip Mounters&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/feeders-and-spare-parts/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Feeders and Spare Parts&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/reflow-ovens/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Reflow Ovens&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/screen-printing-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Screen Printing Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/loaders-unloaders-and-conveyors/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Loaders, Unloaders and Conveyors&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/aoi-and-spi/&quot;&gt;Templates &amp;middot; &lt;strong&gt;AOI and SPI&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/x-ray-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;X-Ray Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/wave-solder-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Wave Solder Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/auto-insert-machines/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Auto Insert Machines&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/tape-and-reel-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Tape &amp;amp; Reel Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/inspection-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Inspection Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="smt-equipment" />
+			
+			
+				<category term="post format" />
+			
+
+			<published>2016-08-25T00:00:00+09:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/smt-equipment/feeders-and-spare-parts/</id>
+			<title>Feeders and Spare Parts</title>
+			<link href="http://localhost:4000/smt-equipment/feeders-and-spare-parts/" rel="alternate" type="text/html" title="Feeders and Spare Parts" />
+			<updated>2016-08-24T00:00:00+09:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Hankook FA</name>
+					
+					
+						<email>hankookfa@hankookfa.com</email>
+					
+					
+						<uri>http://hankookfa.com/</uri>
+					
+				</author>
+			
+			<summary>This is a example of page/post with a sidebar on the left.</summary>
+			<content type="html" xml:base="http://localhost:4000/smt-equipment/feeders-and-spare-parts/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:***
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: true
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;If you don’t want to show metadata, it’s simple again:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: false
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/package-sale/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Package Sale&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/chip-mounters/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Chip Mounters&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/feeders-and-spare-parts/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Feeders and Spare Parts&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/reflow-ovens/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Reflow Ovens&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/screen-printing-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Screen Printing Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/loaders-unloaders-and-conveyors/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Loaders, Unloaders and Conveyors&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/aoi-and-spi/&quot;&gt;Templates &amp;middot; &lt;strong&gt;AOI and SPI&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/x-ray-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;X-Ray Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/wave-solder-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Wave Solder Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/auto-insert-machines/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Auto Insert Machines&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/tape-and-reel-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Tape &amp;amp; Reel Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/inspection-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Inspection Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="smt-equipment" />
+			
+			
+				<category term="post format" />
+			
+
+			<published>2016-08-24T00:00:00+09:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/smt-equipment/reflow-ovens/</id>
+			<title>Reflow Ovens</title>
+			<link href="http://localhost:4000/smt-equipment/reflow-ovens/" rel="alternate" type="text/html" title="Reflow Ovens" />
+			<updated>2016-08-23T00:00:00+09:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Hankook FA</name>
+					
+					
+						<email>hankookfa@hankookfa.com</email>
+					
+					
+						<uri>http://hankookfa.com/</uri>
+					
+				</author>
+			
+			<summary>This is a example of page/post with a sidebar on the left.</summary>
+			<content type="html" xml:base="http://localhost:4000/smt-equipment/reflow-ovens/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:***
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: true
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;If you don’t want to show metadata, it’s simple again:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: false
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/package-sale/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Package Sale&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/chip-mounters/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Chip Mounters&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/feeders-and-spare-parts/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Feeders and Spare Parts&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/reflow-ovens/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Reflow Ovens&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/screen-printing-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Screen Printing Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/loaders-unloaders-and-conveyors/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Loaders, Unloaders and Conveyors&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/aoi-and-spi/&quot;&gt;Templates &amp;middot; &lt;strong&gt;AOI and SPI&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/x-ray-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;X-Ray Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/wave-solder-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Wave Solder Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/auto-insert-machines/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Auto Insert Machines&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/tape-and-reel-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Tape &amp;amp; Reel Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/inspection-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Inspection Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="smt-equipment" />
+			
+			
+				<category term="post format" />
+			
+
+			<published>2016-08-23T00:00:00+09:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/smt-equipment/screen-printing-equipment/</id>
+			<title>Screen Printing Equipment</title>
+			<link href="http://localhost:4000/smt-equipment/screen-printing-equipment/" rel="alternate" type="text/html" title="Screen Printing Equipment" />
+			<updated>2016-08-22T00:00:00+09:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Hankook FA</name>
+					
+					
+						<email>hankookfa@hankookfa.com</email>
+					
+					
+						<uri>http://hankookfa.com/</uri>
+					
+				</author>
+			
+			<summary>This is a example of page/post with a sidebar on the left.</summary>
+			<content type="html" xml:base="http://localhost:4000/smt-equipment/screen-printing-equipment/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:***
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: true
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;If you don’t want to show metadata, it’s simple again:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: false
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/package-sale/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Package Sale&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/chip-mounters/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Chip Mounters&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/feeders-and-spare-parts/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Feeders and Spare Parts&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/reflow-ovens/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Reflow Ovens&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/screen-printing-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Screen Printing Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/loaders-unloaders-and-conveyors/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Loaders, Unloaders and Conveyors&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/aoi-and-spi/&quot;&gt;Templates &amp;middot; &lt;strong&gt;AOI and SPI&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/x-ray-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;X-Ray Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/wave-solder-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Wave Solder Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/auto-insert-machines/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Auto Insert Machines&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/tape-and-reel-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Tape &amp;amp; Reel Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/inspection-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Inspection Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="smt-equipment" />
+			
+			
+				<category term="post format" />
+			
+
+			<published>2016-08-22T00:00:00+09:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/smt-equipment/loaders-unloaders-and-conveyors/</id>
+			<title>Loaders, Unloaders and Conveyors</title>
+			<link href="http://localhost:4000/smt-equipment/loaders-unloaders-and-conveyors/" rel="alternate" type="text/html" title="Loaders, Unloaders and Conveyors" />
+			<updated>2016-08-21T00:00:00+09:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Hankook FA</name>
+					
+					
+						<email>hankookfa@hankookfa.com</email>
+					
+					
+						<uri>http://hankookfa.com/</uri>
+					
+				</author>
+			
+			<summary>This is a example of page/post with a sidebar on the left.</summary>
+			<content type="html" xml:base="http://localhost:4000/smt-equipment/loaders-unloaders-and-conveyors/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:***
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: true
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;If you don’t want to show metadata, it’s simple again:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: false
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/package-sale/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Package Sale&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/chip-mounters/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Chip Mounters&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/feeders-and-spare-parts/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Feeders and Spare Parts&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/reflow-ovens/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Reflow Ovens&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/screen-printing-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Screen Printing Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/loaders-unloaders-and-conveyors/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Loaders, Unloaders and Conveyors&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/aoi-and-spi/&quot;&gt;Templates &amp;middot; &lt;strong&gt;AOI and SPI&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/x-ray-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;X-Ray Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/wave-solder-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Wave Solder Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/auto-insert-machines/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Auto Insert Machines&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/tape-and-reel-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Tape &amp;amp; Reel Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/inspection-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Inspection Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="smt-equipment" />
+			
+			
+				<category term="post format" />
+			
+
+			<published>2016-08-21T00:00:00+09:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/smt-equipment/aoi-and-spi/</id>
+			<title>AOI and SPI</title>
+			<link href="http://localhost:4000/smt-equipment/aoi-and-spi/" rel="alternate" type="text/html" title="AOI and SPI" />
+			<updated>2016-08-20T00:00:00+09:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Hankook FA</name>
+					
+					
+						<email>hankookfa@hankookfa.com</email>
+					
+					
+						<uri>http://hankookfa.com/</uri>
+					
+				</author>
+			
+			<summary>This is a example of page/post with a sidebar on the left.</summary>
+			<content type="html" xml:base="http://localhost:4000/smt-equipment/aoi-and-spi/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:***
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: true
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;If you don’t want to show metadata, it’s simple again:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: false
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/package-sale/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Package Sale&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/chip-mounters/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Chip Mounters&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/feeders-and-spare-parts/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Feeders and Spare Parts&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/reflow-ovens/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Reflow Ovens&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/screen-printing-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Screen Printing Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/loaders-unloaders-and-conveyors/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Loaders, Unloaders and Conveyors&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/aoi-and-spi/&quot;&gt;Templates &amp;middot; &lt;strong&gt;AOI and SPI&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/x-ray-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;X-Ray Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/wave-solder-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Wave Solder Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/auto-insert-machines/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Auto Insert Machines&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/tape-and-reel-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Tape &amp;amp; Reel Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/inspection-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Inspection Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="smt-equipment" />
+			
+			
+				<category term="post format" />
+			
+
+			<published>2016-08-20T00:00:00+09:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/smt-equipment/x-ray-equipment/</id>
+			<title>X-Ray Equipment</title>
+			<link href="http://localhost:4000/smt-equipment/x-ray-equipment/" rel="alternate" type="text/html" title="X-Ray Equipment" />
+			<updated>2016-08-19T00:00:00+09:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Hankook FA</name>
+					
+					
+						<email>hankookfa@hankookfa.com</email>
+					
+					
+						<uri>http://hankookfa.com/</uri>
+					
+				</author>
+			
+			<summary>This is a example of page/post with a sidebar on the left.</summary>
+			<content type="html" xml:base="http://localhost:4000/smt-equipment/x-ray-equipment/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:***
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: true
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;If you don’t want to show metadata, it’s simple again:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: false
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/package-sale/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Package Sale&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/chip-mounters/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Chip Mounters&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/feeders-and-spare-parts/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Feeders and Spare Parts&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/reflow-ovens/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Reflow Ovens&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/screen-printing-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Screen Printing Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/loaders-unloaders-and-conveyors/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Loaders, Unloaders and Conveyors&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/aoi-and-spi/&quot;&gt;Templates &amp;middot; &lt;strong&gt;AOI and SPI&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/x-ray-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;X-Ray Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/wave-solder-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Wave Solder Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/auto-insert-machines/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Auto Insert Machines&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/tape-and-reel-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Tape &amp;amp; Reel Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/inspection-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Inspection Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="smt-equipment" />
+			
+			
+				<category term="post format" />
+			
+
+			<published>2016-08-19T00:00:00+09:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/smt-equipment/wave-solder-equipment/</id>
+			<title>Wave Solder Equipment</title>
+			<link href="http://localhost:4000/smt-equipment/wave-solder-equipment/" rel="alternate" type="text/html" title="Wave Solder Equipment" />
+			<updated>2016-08-18T00:00:00+09:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Hankook FA</name>
+					
+					
+						<email>hankookfa@hankookfa.com</email>
+					
+					
+						<uri>http://hankookfa.com/</uri>
+					
+				</author>
+			
+			<summary>This is a example of page/post with a sidebar on the left.</summary>
+			<content type="html" xml:base="http://localhost:4000/smt-equipment/wave-solder-equipment/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:***
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: true
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;If you don’t want to show metadata, it’s simple again:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: false
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/package-sale/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Package Sale&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/chip-mounters/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Chip Mounters&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/feeders-and-spare-parts/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Feeders and Spare Parts&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/reflow-ovens/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Reflow Ovens&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/screen-printing-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Screen Printing Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/loaders-unloaders-and-conveyors/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Loaders, Unloaders and Conveyors&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/aoi-and-spi/&quot;&gt;Templates &amp;middot; &lt;strong&gt;AOI and SPI&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/x-ray-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;X-Ray Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/wave-solder-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Wave Solder Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/auto-insert-machines/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Auto Insert Machines&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/tape-and-reel-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Tape &amp;amp; Reel Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/inspection-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Inspection Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="smt-equipment" />
+			
+			
+				<category term="post format" />
+			
+
+			<published>2016-08-18T00:00:00+09:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/smt-equipment/auto-insert-machines/</id>
+			<title>Auto Insert Machines</title>
+			<link href="http://localhost:4000/smt-equipment/auto-insert-machines/" rel="alternate" type="text/html" title="Auto Insert Machines" />
+			<updated>2016-08-17T00:00:00+09:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Hankook FA</name>
+					
+					
+						<email>hankookfa@hankookfa.com</email>
+					
+					
+						<uri>http://hankookfa.com/</uri>
+					
+				</author>
+			
+			<summary>This is a example of page/post with a sidebar on the left.</summary>
+			<content type="html" xml:base="http://localhost:4000/smt-equipment/auto-insert-machines/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:***
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: true
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;If you don’t want to show metadata, it’s simple again:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: false
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/package-sale/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Package Sale&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/chip-mounters/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Chip Mounters&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/feeders-and-spare-parts/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Feeders and Spare Parts&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/reflow-ovens/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Reflow Ovens&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/screen-printing-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Screen Printing Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/loaders-unloaders-and-conveyors/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Loaders, Unloaders and Conveyors&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/aoi-and-spi/&quot;&gt;Templates &amp;middot; &lt;strong&gt;AOI and SPI&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/x-ray-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;X-Ray Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/wave-solder-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Wave Solder Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/auto-insert-machines/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Auto Insert Machines&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/tape-and-reel-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Tape &amp;amp; Reel Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/inspection-equipment/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Inspection Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="smt-equipment" />
+			
+			
+				<category term="post format" />
+			
+
+			<published>2016-08-17T00:00:00+09:00</published>
+		</entry>
+	
+</feed>
