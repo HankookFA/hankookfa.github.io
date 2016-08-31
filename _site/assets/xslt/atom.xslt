@@ -277,7 +277,7 @@
             
 
               <li class="has-dropdown">
-                <a href="http://localhost:4000/headers/">Stock List</a>
+                <a href="http://localhost:4000/stock-list/">Stock List</a>
 
                   <ul class="dropdown">
                     
@@ -289,17 +289,7 @@
 
                       
 
-                      <li><a href="http://localhost:4000/design/header-full-width-image/">Header with Full-Width-Image</a></li>
-                    
-
-                      
-
                       <li><a href="http://localhost:4000/smt-equipment/reflow-ovens/">Reflow Ovens</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/design/header-image-color/">Header with image and color</a></li>
                     
 
                       
@@ -309,17 +299,12 @@
 
                       
 
-                      <li><a href="http://localhost:4000/design/header-with-text/">Header With Text</a></li>
+                      <li><a href="http://localhost:4000/smt-equipment/underfill/">Underfill</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000/design/no-header/">No Header</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/design/no-header-but-image/">No Header but Image</a></li>
+                      <li><a href="http://localhost:4000/smt-equipment/others/">Others</a></li>
                     
                   </ul>
 

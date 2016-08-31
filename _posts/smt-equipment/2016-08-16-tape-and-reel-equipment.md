@@ -1,12 +1,10 @@
 ---
 layout: page
-sidebar: left
 subheadline: Templates
 title:  "Tape & Reel Equipment"
 teaser: "This is a example of page/post with a sidebar on the left."
 breadcrumb: true
 tags:
-    - post format
 categories:
     - smt-equipment
 header: no

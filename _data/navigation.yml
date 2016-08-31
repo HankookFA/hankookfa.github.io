@@ -36,25 +36,19 @@
     url: "/smt-equipment/inspection-equipment/"
 
 - title: "Stock List"
-  url: "/headers/"
+  url: "/stock-list/"
   side: left
   dropdown:
   - title: "Chip Mounters"
     url: "/smt-equipment/chip-mounters/"
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
   - title: "Reflow Ovens"
     url: "/smt-equipment/reflow-ovens/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
   - title: "X-Ray Equipment"
     url: "/smt-equipment/x-ray-equipment/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+  - title: "Underfill"
+    url: "/smt-equipment/underfill/"
+  - title: "Others"
+    url: "/smt-equipment/others/"
 
 # - title: Documentation
 #   url: "/documentation/"
