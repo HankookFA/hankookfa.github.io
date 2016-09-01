@@ -1,14 +1,14 @@
 ---
 layout: page
 title:  "Reflow Ovens"
-teaser: "리플로우 오븐에 대한 부가 설명."
+teaser:
 breadcrumb: true
 tags:
 categories:
     - smt-equipment
 header: no
 image:
-    title: TSM.jpg
+    title: heller/1809EXL-2006.png
 ---
 
 ## [Heller][1]'s Product

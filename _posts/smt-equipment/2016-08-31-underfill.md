@@ -1,14 +1,14 @@
 ---
 layout: page
 title:  "Underfill"
-teaser: "부가 설명."
+teaser:
 breadcrumb: true
 tags:
 categories:
     - smt-equipment
 header: no
 image:
-    title: TSM.jpg
+    title: asymtek/ASYMTEK.jpg
 ---
 
 ##Asymtek's Product

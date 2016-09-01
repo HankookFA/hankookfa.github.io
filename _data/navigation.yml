@@ -33,8 +33,8 @@
   - title: "Inspection Equipment"
     url: "/smt-equipment/inspection-equipment/"
 
-- title: "취급 메이커"
-  url: "/maker-list/"
+- title: "취급 브랜드"
+  url: "/brand-list/"
   side: left
   dropdown:
   - title: "Mirae"

@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>Hankook FA</title>
-	<updated>2016-09-01T14:55:26+09:00</updated>
+	<updated>2016-09-01T17:06:37+09:00</updated>
 
 	<subtitle>검색엔진에 잘 검색되기 위한 150자 내의 설명.</subtitle>
 
@@ -45,7 +45,7 @@
 					
 				</author>
 			
-			<summary>기계에 대한 부가 설명</summary>
+			<summary></summary>
 			<content type="html" xml:base="http://localhost:4000/smt-equipment/agilent-technologies/medalist-x6000-2008/">&lt;ul&gt;
   &lt;li&gt;Vintage: 2008&lt;/li&gt;
 &lt;/ul&gt;
@@ -97,7 +97,7 @@
 					
 				</author>
 			
-			<summary>메이커에 대한 부가 설명</summary>
+			<summary></summary>
 			<content type="html" xml:base="http://localhost:4000/smt-equipment/agilent-technologies/">&lt;h2 class=&quot;t60&quot; id=&quot;agilent-technologiess-product&quot;&gt;Agilent Technologies’s Product&lt;/h2&gt;
 
 &lt;ul class=&quot;side-nav&quot;&gt;
@@ -141,7 +141,7 @@
 					
 				</author>
 			
-			<summary>메이커에 대한 부가 설명</summary>
+			<summary></summary>
 			<content type="html" xml:base="http://localhost:4000/smt-equipment/asymtek/">&lt;h2 id=&quot;asymteks-product&quot;&gt;Asymtek’s Product&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -180,7 +180,7 @@
 					
 				</author>
 			
-			<summary>기계에 대한 부가 설명</summary>
+			<summary></summary>
 			<content type="html" xml:base="http://localhost:4000/smt-equipment/tsm/n70-1102sh-2013/">&lt;ul&gt;
   &lt;li&gt;Vintage: 2013&lt;/li&gt;
   &lt;li&gt;10 Heat Zones + 2 Cool Zones&lt;/li&gt;
@@ -241,7 +241,7 @@
 					
 				</author>
 			
-			<summary>기계에 대한 부가 설명</summary>
+			<summary></summary>
 			<content type="html" xml:base="http://localhost:4000/smt-equipment/heller/1912exl-2008/">&lt;ul&gt;
   &lt;li&gt;Vintage: 2008&lt;/li&gt;
   &lt;li&gt;12 Heat Zones + 2 Cool Zones&lt;/li&gt;
@@ -304,7 +304,7 @@
 					
 				</author>
 			
-			<summary>기계에 대한 부가 설명</summary>
+			<summary></summary>
 			<content type="html" xml:base="http://localhost:4000/smt-equipment/heller/1809exl-2006/">&lt;ul&gt;
   &lt;li&gt;Vintage: 2006&lt;/li&gt;
   &lt;li&gt;9 Heat Zones + 2 Cool Zones&lt;/li&gt;
@@ -367,7 +367,7 @@
 					
 				</author>
 			
-			<summary>기계에 대한 부가 설명</summary>
+			<summary></summary>
 			<content type="html" xml:base="http://localhost:4000/smt-equipment/heller/1808exl-2006/">&lt;ul&gt;
   &lt;li&gt;Vintage: 2006&lt;/li&gt;
   &lt;li&gt;8 Heat Zones + 2 Cool Zones&lt;/li&gt;
@@ -430,8 +430,8 @@
 					
 				</author>
 			
-			<summary>메이커에 대한 부가 설명</summary>
-			<content type="html" xml:base="http://localhost:4000/smt-equipment/tsm/">&lt;h2 class=&quot;t60&quot; id=&quot;hellers-product&quot;&gt;Heller’s Product&lt;/h2&gt;
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/smt-equipment/tsm/">&lt;h2 class=&quot;t60&quot; id=&quot;tsms-product&quot;&gt;TSM’s Product&lt;/h2&gt;
 
 &lt;ul class=&quot;side-nav&quot;&gt;
 
@@ -474,7 +474,7 @@
 					
 				</author>
 			
-			<summary>메이커에 대한 부가 설명</summary>
+			<summary></summary>
 			<content type="html" xml:base="http://localhost:4000/smt-equipment/heller/">&lt;h2 class=&quot;t60&quot; id=&quot;hellers-product&quot;&gt;Heller’s Product&lt;/h2&gt;
 
 &lt;ul class=&quot;side-nav&quot;&gt;
@@ -522,7 +522,7 @@
 					
 				</author>
 			
-			<summary>기계에 대한 부가 설명</summary>
+			<summary></summary>
 			<content type="html" xml:base="http://localhost:4000/smt-equipment/samsung/sm482-2012/">&lt;ul&gt;
   &lt;li&gt;Vintage: 2012&lt;/li&gt;
   &lt;li&gt;Flow Direction: Left to Right (Front Rail Fixed)&lt;/li&gt;

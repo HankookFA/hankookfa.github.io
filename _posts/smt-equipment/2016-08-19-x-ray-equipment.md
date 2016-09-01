@@ -1,14 +1,14 @@
 ---
 layout: page
 title:  "X-Ray Equipment"
-teaser: "엑스레이에 대한 부가 설명."
+teaser:
 breadcrumb: true
 tags:
 categories:
     - smt-equipment
 header: no
 image:
-    title: TSM.jpg
+    title: agilent-technologies/x6000-2008.jpg
 ---
 
 ## [Agilent Technologies][1]'s Product

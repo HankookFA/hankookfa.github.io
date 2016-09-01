@@ -8,7 +8,7 @@ categories:
     - smt-equipment
 header: no
 image:
-    title: TSM.jpg
+    title:
 
 ---
 

@@ -1,14 +1,14 @@
 ---
 layout: page
 title:  "Chip Mounters"
-teaser: "칩 마운터에 대한 부가 설명."
+teaser:
 breadcrumb: true
 tags:
 categories:
     - smt-equipment
 header: no
 image:
-    title: TSM.jpg
+    title: mirae/MX200L-2012.jpg
 ---
 
 <!--more-->
