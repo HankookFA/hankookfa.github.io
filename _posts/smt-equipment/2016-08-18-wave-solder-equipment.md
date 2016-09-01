@@ -1,8 +1,7 @@
 ---
 layout: page
-subheadline: Templates
 title:  "Wave Solder Equipment"
-teaser: "This is a example of page/post with a sidebar on the left."
+teaser: "현재 판매 가능한 재고가 없습니다. 찾으시는 물건이 있다면 연락주시기 바랍니다."
 breadcrumb: true
 tags:
 categories:
@@ -10,23 +9,11 @@ categories:
 header: no
 image:
     title: TSM.jpg
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
+
 ---
-*Feeling Responsive* shows metadata by default. The default behaviour can be changed via `config.yml`. To show metadata at the end of a page/post just add the following to front matter:***
-<!--more-->
 
 ~~~
-show_meta: true
+TEL. (032) 321-5396
+FAX. (032) 321-5468
+Email. hankookfa@hankookfa.com
 ~~~
-
-If you don't want to show metadata, it's simple again:
-
-~~~
-show_meta: false
-~~~
-
-
-## Other Post Formats
-{: .t60 }
-{% include list-posts tag='post format' %}

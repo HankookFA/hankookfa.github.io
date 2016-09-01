@@ -1,6 +1,5 @@
 ---
 layout: page
-subheadline: Templates
 title:  "X-Ray Equipment"
 teaser: "엑스레이에 대한 부가 설명."
 breadcrumb: true

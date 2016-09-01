@@ -10,7 +10,7 @@ header: no
 image:
     title: TSM.jpg
 
-permalink: "/smt-equipment/x-ray-equipment/agilent-echnologies/"
+permalink: "/smt-equipment/agilent-technologies/"
 ---
 
 ##Agilent Technologies's Product

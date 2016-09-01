@@ -203,11 +203,6 @@
 
                       
 
-                      <li><a href="http://localhost:4000/smt-equipment/package-sale/">Package Sale</a></li>
-                    
-
-                      
-
                       <li><a href="http://localhost:4000/smt-equipment/chip-mounters/">Chip Mounters</a></li>
                     
 
@@ -277,24 +272,34 @@
             
 
               <li class="has-dropdown">
-                <a href="http://localhost:4000/stock-list/">Stock List</a>
+                <a href="http://localhost:4000/maker-list/">취급 메이커</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="http://localhost:4000/smt-equipment/chip-mounters/">Chip Mounters</a></li>
+                      <li><a href="http://localhost:4000/smt-equipment/mirae/">Mirae</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000/smt-equipment/reflow-ovens/">Reflow Ovens</a></li>
+                      <li><a href="http://localhost:4000/smt-equipment/samsung/">Samsung</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000/smt-equipment/x-ray-equipment/">X-Ray Equipment</a></li>
+                      <li><a href="http://localhost:4000/smt-equipment/heller/">Heller</a></li>
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/smt-equipment/tsm/">TSM</a></li>
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/smt-equipment/agilent-technologies/">Agilent Technologies</a></li>
                     
 
                       

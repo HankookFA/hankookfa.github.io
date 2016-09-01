@@ -1,6 +1,5 @@
 ---
 layout: page
-subheadline: Templates
 title:  "Chip Mounters"
 teaser: "칩 마운터에 대한 부가 설명."
 breadcrumb: true
@@ -35,25 +34,25 @@ image:
 8. [CP45FV Neo 2006][28]
 9. [CP45FV Neo 2005][29]
 
-[10]: {{ site.url }}/smt-equipment/chip-mounters/mirae/
+[10]: {{ site.url }}/smt-equipment/mirae/
 
-[11]: {{ site.url }}/smt-equipment/chip-mounters/mirae/mx400-2012/
-[12]: {{ site.url }}/smt-equipment/chip-mounters/mirae/mx400-2010/
-[13]: {{ site.url }}/smt-equipment/chip-mounters/mirae/mx200l-2012/
-[14]: {{ site.url }}/smt-equipment/chip-mounters/mirae/mx400l-2011/
-[15]: {{ site.url }}/smt-equipment/chip-mounters/mirae/mx400lp-2009/
+[11]: {{ site.url }}/smt-equipment/mirae/mx400-2012/
+[12]: {{ site.url }}/smt-equipment/mirae/mx400-2010/
+[13]: {{ site.url }}/smt-equipment/mirae/mx200l-2012/
+[14]: {{ site.url }}/smt-equipment/mirae/mx400l-2011/
+[15]: {{ site.url }}/smt-equipment/mirae/mx400lp-2009/
 
-[20]: {{ site.url }}/smt-equipment/chip-mounters/samsung/
+[20]: {{ site.url }}/smt-equipment/samsung/
 
-[21]: {{ site.url }}/smt-equipment/chip-mounters/samsung/sm482-2012/
-[22]: {{ site.url }}/smt-equipment/chip-mounters/samsung/sm411-2010/
-[23]: {{ site.url }}/smt-equipment/chip-mounters/samsung/sm321-2007/
-[24]: {{ site.url }}/smt-equipment/chip-mounters/samsung/sm320-2005/
-[25]: {{ site.url }}/smt-equipment/chip-mounters/samsung/cp45fv-2002/
-[26]: {{ site.url }}/smt-equipment/chip-mounters/samsung/cp45f-2002/
-[27]: {{ site.url }}/smt-equipment/chip-mounters/samsung/cp45fs-neo-2005/
-[28]: {{ site.url }}/smt-equipment/chip-mounters/samsung/cp45fv-neo-2006/
-[29]: {{ site.url }}/smt-equipment/chip-mounters/samsung/cp45fv-neo-2005/
+[21]: {{ site.url }}/smt-equipment/samsung/sm482-2012/
+[22]: {{ site.url }}/smt-equipment/samsung/sm411-2010/
+[23]: {{ site.url }}/smt-equipment/samsung/sm321-2007/
+[24]: {{ site.url }}/smt-equipment/samsung/sm320-2005/
+[25]: {{ site.url }}/smt-equipment/samsung/cp45fv-2002/
+[26]: {{ site.url }}/smt-equipment/samsung/cp45f-2002/
+[27]: {{ site.url }}/smt-equipment/samsung/cp45fs-neo-2005/
+[28]: {{ site.url }}/smt-equipment/samsung/cp45fv-neo-2006/
+[29]: {{ site.url }}/smt-equipment/samsung/cp45fv-neo-2005/
 -->
 
 ## [Mirae][1]'s Product
@@ -64,5 +63,5 @@ image:
 {: .t60 }
 {% include list-posts tag='Samsung' %}
 
-[1]: {{ site.url }}/smt-equipment/chip-mounters/mirae/
-[2]: {{ site.url }}/smt-equipment/chip-mounters/samsung/
+[1]: {{ site.url }}/smt-equipment/mirae/
+[2]: {{ site.url }}/smt-equipment/samsung/

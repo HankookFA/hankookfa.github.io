@@ -1,6 +1,5 @@
 ---
 layout: page
-subheadline: Templates
 title:  "Reflow Ovens"
 teaser: "리플로우 오븐에 대한 부가 설명."
 breadcrumb: true
@@ -20,5 +19,5 @@ image:
 {: .t60 }
 {% include list-posts tag='TSM' %}
 
-[1]: {{ site.url }}/smt-equipment/reflow-ovens/heller/
-[2]: {{ site.url }}/smt-equipment/reflow-ovens/tsm/
+[1]: {{ site.url }}/smt-equipment/heller/
+[2]: {{ site.url }}/smt-equipment/tsm/
