@@ -11,11 +11,11 @@ image:
     title: heller/1809EXL-2006.png
 ---
 
-## [Heller][1]'s Product
+## [Heller][1]'s Equipments
 {: .t60 }
 {% include list-posts tag='Heller' %}
 
-## [TSM][2]'s Product
+## [TSM][2]'s Equipments
 {: .t60 }
 {% include list-posts tag='TSM' %}
 

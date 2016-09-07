@@ -12,6 +12,6 @@ image:
 permalink: "/smt-equipment/agilent-technologies/"
 ---
 
-## Agilent Technologies's Product ##
+## Agilent Technologies's Equipments ##
 {: .t60 }
 {% include list-posts tag='Agilent Technologies' %}

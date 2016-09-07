@@ -55,11 +55,11 @@ image:
 [29]: {{ site.url }}/smt-equipment/samsung/cp45fv-neo-2005/
 -->
 
-## [Mirae][1]'s Product
+## [Mirae][1]'s Equipments
 {: .t60 }
 {% include list-posts tag='Mirae' %}
 
-## [Samsung][2]'s Product
+## [Samsung][2]'s Equipments
 {: .t60 }
 {% include list-posts tag='Samsung' %}
 

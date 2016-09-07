@@ -8,27 +8,27 @@ header:
 permalink: "/brand-list/"
 ---
 
-## Mirae's Product ##
+## Mirae's Equipments ##
 {: .t60 }
 {% include list-posts tag='Mirae' %}
 
-## Samsung's Product ##
+## Samsung's Equipments ##
 {: .t60 }
 {% include list-posts tag='Samsung' %}
 
-## Heller's Product ##
+## Heller's Equipments ##
 {: .t60 }
 {% include list-posts tag='Heller' %}
 
-## TSM's Product ##
+## TSM's Equipments ##
 {: .t60 }
 {% include list-posts tag='TSM' %}
 
-## Agilent Technologies's Product ##
+## Agilent Technologies's Equipments ##
 {: .t60 }
 {% include list-posts tag='Agilent Technologies' %}
 
-## Asymtek's Product ##
+## Asymtek's Equipments ##
 
 - M620 (2004)
 - M620 (2003)

@@ -11,7 +11,7 @@ image:
     title: agilent-technologies/x6000-2008.jpg
 ---
 
-## [Agilent Technologies][1]'s Product
+## [Agilent Technologies][1]'s Equipments
 {: .t60 }
 {% include list-posts tag='Agilent Technologies' %}
 
