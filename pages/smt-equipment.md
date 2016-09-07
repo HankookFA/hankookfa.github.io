@@ -4,7 +4,7 @@ show_meta: false
 title: "SMT Equipments"
 subheadline: "Hankook FA"
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "shutterstock/shutterstock_103471583.jpg"
 permalink: "/smt-equipment/"
 ---
 <ul>

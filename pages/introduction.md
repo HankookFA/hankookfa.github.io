@@ -5,7 +5,7 @@ title: "한국FA를 소개합니다."
 subheadline: "회사소개"
 # teaser: "(부가 설명)"
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: "shutterstock/shutterstock_374319640.jpg"
 permalink: "/introduction/"
 ---
 Since 1994,
