@@ -39,7 +39,7 @@
 				<title>Agilent Technologies</title>
 				<link>http://localhost:4000/smt-equipment/agilent-technologies/</link>
 				<pubDate>Wed, 31 Aug 2016 00:00:00 +0900</pubDate>
-				<description>&lt;h2 class=&quot;t60&quot; id=&quot;agilent-technologiess-product&quot;&gt;Agilent Technologies’s Product&lt;/h2&gt;
+				<description>&lt;h2 class=&quot;t60&quot; id=&quot;agilent-technologiess-equipments&quot;&gt;Agilent Technologies’s Equipments&lt;/h2&gt;
 
 &lt;ul class=&quot;side-nav&quot;&gt;
 
@@ -60,7 +60,7 @@
 				<title>Asymtek</title>
 				<link>http://localhost:4000/smt-equipment/asymtek/</link>
 				<pubDate>Wed, 31 Aug 2016 00:00:00 +0900</pubDate>
-				<description>&lt;h2 id=&quot;asymteks-product&quot;&gt;Asymtek’s Product&lt;/h2&gt;
+				<description>&lt;h2 id=&quot;asymteks-equipments&quot;&gt;Asymtek’s Equipments&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;M620 (2004)&lt;/li&gt;
@@ -226,7 +226,7 @@
 				<title>TSM</title>
 				<link>http://localhost:4000/smt-equipment/tsm/</link>
 				<pubDate>Wed, 31 Aug 2016 00:00:00 +0900</pubDate>
-				<description>&lt;h2 class=&quot;t60&quot; id=&quot;tsms-product&quot;&gt;TSM’s Product&lt;/h2&gt;
+				<description>&lt;h2 class=&quot;t60&quot; id=&quot;tsms-equipments&quot;&gt;TSM’s Equipments&lt;/h2&gt;
 
 &lt;ul class=&quot;side-nav&quot;&gt;
 
@@ -247,7 +247,7 @@
 				<title>Heller</title>
 				<link>http://localhost:4000/smt-equipment/heller/</link>
 				<pubDate>Wed, 31 Aug 2016 00:00:00 +0900</pubDate>
-				<description>&lt;h2 class=&quot;t60&quot; id=&quot;hellers-product&quot;&gt;Heller’s Product&lt;/h2&gt;
+				<description>&lt;h2 class=&quot;t60&quot; id=&quot;hellers-equipments&quot;&gt;Heller’s Equipments&lt;/h2&gt;
 
 &lt;ul class=&quot;side-nav&quot;&gt;
 

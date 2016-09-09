@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>Hankook FA</title>
-	<updated>2016-09-07T14:24:56+09:00</updated>
+	<updated>2016-09-09T17:01:23+09:00</updated>
 
 	<subtitle>검색엔진에 잘 검색되기 위한 150자 내의 설명.</subtitle>
 
@@ -98,7 +98,7 @@
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/smt-equipment/agilent-technologies/">&lt;h2 class=&quot;t60&quot; id=&quot;agilent-technologiess-product&quot;&gt;Agilent Technologies’s Product&lt;/h2&gt;
+			<content type="html" xml:base="http://localhost:4000/smt-equipment/agilent-technologies/">&lt;h2 class=&quot;t60&quot; id=&quot;agilent-technologiess-equipments&quot;&gt;Agilent Technologies’s Equipments&lt;/h2&gt;
 
 &lt;ul class=&quot;side-nav&quot;&gt;
 
@@ -142,7 +142,7 @@
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/smt-equipment/asymtek/">&lt;h2 id=&quot;asymteks-product&quot;&gt;Asymtek’s Product&lt;/h2&gt;
+			<content type="html" xml:base="http://localhost:4000/smt-equipment/asymtek/">&lt;h2 id=&quot;asymteks-equipments&quot;&gt;Asymtek’s Equipments&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;M620 (2004)&lt;/li&gt;
@@ -431,7 +431,7 @@
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/smt-equipment/tsm/">&lt;h2 class=&quot;t60&quot; id=&quot;tsms-product&quot;&gt;TSM’s Product&lt;/h2&gt;
+			<content type="html" xml:base="http://localhost:4000/smt-equipment/tsm/">&lt;h2 class=&quot;t60&quot; id=&quot;tsms-equipments&quot;&gt;TSM’s Equipments&lt;/h2&gt;
 
 &lt;ul class=&quot;side-nav&quot;&gt;
 
@@ -475,7 +475,7 @@
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/smt-equipment/heller/">&lt;h2 class=&quot;t60&quot; id=&quot;hellers-product&quot;&gt;Heller’s Product&lt;/h2&gt;
+			<content type="html" xml:base="http://localhost:4000/smt-equipment/heller/">&lt;h2 class=&quot;t60&quot; id=&quot;hellers-equipments&quot;&gt;Heller’s Equipments&lt;/h2&gt;
 
 &lt;ul class=&quot;side-nav&quot;&gt;
 

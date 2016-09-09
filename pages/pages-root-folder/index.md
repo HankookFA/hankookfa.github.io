@@ -8,21 +8,21 @@ layout: frontpage
 header:
   image_fullwidth: shutterstock/shutterstock_52231582.jpg
 widget1:
-  title: "Hankook FA"
-  url: '/introduction/'
-  image: shutterstock/shutterstock_374319640.jpg
-  text: 'Since 1994,<br/>한국 F.A.는 좋은 품질의 중고 SMT 및 자삽 장비를 경쟁력 있는 가격으로 공급해왔습니다. 고객의 요구에 신속하게 대응하고 발 빠른 서비스를 제공하여 국내뿐 아니라 세계 시장에서도 믿을 수 있는 공급업체로 자리매김하였습니다. 항상 열린 눈과 귀로 고객에게 가장 필요한 장비를 제공하는 한국 F.A.가 될 것을 약속 드립니다.'
-widget2:
   title: "유휴 장비 목록"
   url: '/smt-equipment/'
   image: shutterstock/shutterstock_103471583.jpg
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  text: '한국FA에서 보유하고 있는 Chip Mounter, Reflow Oven 등의 장비를 종류별로 확인하실 수 있습니다.'
 #  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
-widget3:
+widget2:
   title: "취급 브랜드 목록"
   url: '/brand-list/'
   image: shutterstock/shutterstock_105451790.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  text: '각 분야별 최고의 장비를 제조하는 Mirae, Samsung, Heller 등의 장비를 브랜드별로 확인하실 수 있습니다.'
+widget3:
+  title: "패키지 세일"
+  url: '/package-sale/'
+  image: shutterstock/shutterstock_374319640.jpg
+  text: '합리적인 가격의 묶음 상품의 목록을 확인하실 수 있습니다.'
 #
 # Use the call for action to show a button on the frontpage
 #
