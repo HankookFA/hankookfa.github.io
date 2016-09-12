@@ -13,6 +13,6 @@ image:
 
 ## [Agilent Technologies][1]'s Equipments
 {: .t60 }
-{% include list-posts tag='Agilent Technologies' %}
+{% include list-posts tag='Agilent Technologies X-Ray Equipments' %}
 
-[1]: {{ site.url }}/smt-equipment/reflow-ovens/agilent-technologies/
+[1]: {{ site.url }}/smt-equipment/x-ray-equipment/agilent-technologies/

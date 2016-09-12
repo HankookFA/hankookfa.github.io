@@ -3,10 +3,10 @@
 #   class: icon-github
 #   title: Code und mehr...
 #
-# - name: YouTube
-#   url: http://www.youtube.com/PhlowMedia
-#   class: icon-youtube
-#   title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+- name: YouTube
+  url: https://www.youtube.com/channel/UCrSVHuhPT3OCFzCZuSp1T_Q
+  class: icon-youtube
+  title: "한국 FA 공식 유튜브 채널"
 #
 # - name: Twitter
 #   url: http://twitter.com/phlow
@@ -23,10 +23,10 @@
 #   class: icon-googleplus
 #   title: "YouTube Google+"
 
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
+- name: Facebook
+  url: http://www.facebook.com/
+  class: icon-facebook
+  title: "한국 FA 공식 페이스북 페이지"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/

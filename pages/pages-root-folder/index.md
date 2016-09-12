@@ -10,18 +10,18 @@ header:
 widget1:
   title: "유휴 장비 목록"
   url: '/smt-equipment/'
-  image: shutterstock/shutterstock_103471583.jpg
-  text: '한국FA에서 보유하고 있는 Chip Mounter, Reflow Oven 등의 장비를 종류별로 확인하실 수 있습니다.'
-#  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+#  image: hankookfa/stock-list.jpg
+  text: '한국FA에서 보유하고 있는 장비들을 종류별로 확인하실 수 있습니다.</br></br>- SMT</br>Chip Mounter, Multi Mounter, Screen Printer, Reflow Oven, Dispenser, Loader & Unloader, Full Line Machines</br></br>-Insert Machines</br>Axial Inserter, Radial Inserter, Jumper Wire machine, Sequencer'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="https://i.ytimg.com/vi/XaG5Gn3Mmiw/hqdefault.jpg?custom=true&w=196&h=110&stc=true&jpg444=true&jpgq=90&sp=68&sigh=T9a4Vxkp1Q_NHyFUapBQnveIQV4" alt=""/></a>'
 widget2:
   title: "취급 브랜드 목록"
   url: '/brand-list/'
-  image: shutterstock/shutterstock_105451790.jpg
-  text: '각 분야별 최고의 장비를 제조하는 Mirae, Samsung, Heller 등의 장비를 브랜드별로 확인하실 수 있습니다.'
+  image: hankookfa/brand-list.png
+  text: '각 분야별 고품질의 장비를 브랜드별로 확인하실 수 있습니다.</br></br>- SMT Machines</br>Panasert, Fuji, KME , Sanyo, Juki, Yamaha, Tenryu, Samsung, Mirae</br></br>- Auto Insert Machines</br>Panasert, Universal, Dynapert, TDK</br></br>- Reflow Ovens</br>Heller, TSM, Vitronics</br></br>-  SMT Feeders</br>Samsung, Fuji, Panasert, KME , Sanyo, Juki, Yamaha</br></br>- Spare Parts ( IMC )</br>TDK, Universal, Dynapert, Panasert'
 widget3:
   title: "패키지 세일"
   url: '/package-sale/'
-  image: shutterstock/shutterstock_374319640.jpg
+  image: hankookfa/package-sale.jpg
   text: '합리적인 가격의 묶음 상품의 목록을 확인하실 수 있습니다.'
 #
 # Use the call for action to show a button on the frontpage
@@ -45,9 +45,9 @@ permalink: /index.html
 homepage: true
 ---
 
-<!-- <div id="videoModal" class="reveal-modal large" data-reveal="">
+<div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/XaG5Gn3Mmiw" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
-</div> -->
+</div>

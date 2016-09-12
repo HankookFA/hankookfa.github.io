@@ -57,11 +57,11 @@ image:
 
 ## [Mirae][1]'s Equipments
 {: .t60 }
-{% include list-posts tag='Mirae' %}
+{% include list-posts tag='Mirae Chip Mounters' %}
 
 ## [Samsung][2]'s Equipments
 {: .t60 }
-{% include list-posts tag='Samsung' %}
+{% include list-posts tag='Samsung Chip Mounters' %}
 
-[1]: {{ site.url }}/smt-equipment/mirae/
-[2]: {{ site.url }}/smt-equipment/samsung/
+[1]: {{ site.url }}/smt-equipment/chip-mounters/mirae/
+[2]: {{ site.url }}/smt-equipment/chip-mounters/samsung/

@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Feeders and Spare Parts"
-teaser: "현재 판매 가능한 재고가 없습니다. 찾으시는 물건이 있다면 연락주시기 바랍니다."
+teaser:
 breadcrumb: true
 tags:
 categories:
@@ -12,8 +12,13 @@ image:
 
 ---
 
-~~~
-TEL. (032) 321-5396
-FAX. (032) 321-5468
-Email. hankookfa@hankookfa.com
-~~~
+## [Mirae][1]'s Equipments
+{: .t60 }
+{% include list-posts tag='Mirae Feeders and Spare Parts' %}
+
+## [Samsung][2]'s Equipments
+{: .t60 }
+{% include list-posts tag='Samsung Feeders and Spare Parts' %}
+
+[1]: {{ site.url }}/smt-equipment/feeders-and-spare-parts/mirae/
+[2]: {{ site.url }}/smt-equipment/feeders-and-spare-parts/samsung/

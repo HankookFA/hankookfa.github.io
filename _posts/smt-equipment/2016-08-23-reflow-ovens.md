@@ -13,11 +13,11 @@ image:
 
 ## [Heller][1]'s Equipments
 {: .t60 }
-{% include list-posts tag='Heller' %}
+{% include list-posts tag='Heller Reflow Ovens' %}
 
 ## [TSM][2]'s Equipments
 {: .t60 }
-{% include list-posts tag='TSM' %}
+{% include list-posts tag='TSM Reflow Ovens' %}
 
-[1]: {{ site.url }}/smt-equipment/heller/
-[2]: {{ site.url }}/smt-equipment/tsm/
+[1]: {{ site.url }}/smt-equipment/reflow-ovens/heller/
+[2]: {{ site.url }}/smt-equipment/reflow-ovens/tsm/
