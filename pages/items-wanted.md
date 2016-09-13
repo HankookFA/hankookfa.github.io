@@ -10,14 +10,8 @@ header:
 permalink: "/items-wanted/"
 ---
 
-TEL. (032) 321-5396
+TEL. (032) 321-5396 FAX. (032) 321-5468 Email. [hankookfa@hankookfa.com](mailto:hankookfa@hankookfa.com)
 
-FAX. (032) 321-5468
-
-Email. [hankookfa@hankookfa.com](mailto:hankookfa@hankookfa.com)
-
-### - Panasonic Dispencer – HDF (newer than 2006) ###
-
-### - Panasonic Dispencer – HDP-G1 ###
-
-### - Kohyoung AOI/SPI ###
+- Panasonic Dispencer – HDF (newer than 2006)
+- Panasonic Dispencer – HDP-G1
+- Kohyoung AOI/SPI

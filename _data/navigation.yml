@@ -2,10 +2,6 @@
   url: "/"
   side: left
 
-- title: "매입설비"
-  url: "/items-wanted/"
-  side: left
-
 - title: "유휴장비"
   url: "/smt-equipment/"
   side: left
@@ -54,6 +50,10 @@
 
 - title: "패키지 세일"
   url: "/package-sale/"
+  side: left
+
+- title: "매입설비"
+  url: "/items-wanted/"
   side: left
 
 
