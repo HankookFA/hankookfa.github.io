@@ -12,6 +12,6 @@ image:
 permalink: "/smt-equipment/x-ray-equipment/agilent-technologies/"
 ---
 
-## Agilent Technologies's Equipments ##
+## Agilent Technologies's Equipment ##
 {: .t60 }
-{% include list-posts tag='Agilent Technologies X-Ray Equipments' %}
+{% include list-posts tag='Agilent Technologies X-Ray Equipment' %}

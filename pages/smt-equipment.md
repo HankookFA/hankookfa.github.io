@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "SMT Equipments"
+title: "SMT Equipment"
 subheadline: "Hankook FA"
 header:
    image_fullwidth: "shutterstock/shutterstock_103471583.jpg"

@@ -12,11 +12,11 @@ image:
 
 ---
 
-## [Mirae][1]'s Equipments
+## [Mirae][1]'s Equipment
 {: .t60 }
 {% include list-posts tag='Mirae Feeders and Spare Parts' %}
 
-## [Samsung][2]'s Equipments
+## [Samsung][2]'s Equipment
 {: .t60 }
 {% include list-posts tag='Samsung Feeders and Spare Parts' %}
 

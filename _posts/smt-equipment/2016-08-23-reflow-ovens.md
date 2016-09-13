@@ -11,11 +11,11 @@ image:
     title: heller/1809EXL-2006.png
 ---
 
-## [Heller][1]'s Equipments
+## [Heller][1]'s Equipment
 {: .t60 }
 {% include list-posts tag='Heller Reflow Ovens' %}
 
-## [TSM][2]'s Equipments
+## [TSM][2]'s Equipment
 {: .t60 }
 {% include list-posts tag='TSM Reflow Ovens' %}
 

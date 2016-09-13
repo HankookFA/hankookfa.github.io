@@ -11,7 +11,7 @@ image:
     title: asymtek/ASYMTEK.jpg
 ---
 
-## Asymtek's Equipments ##
+## Asymtek's Equipment ##
 
 - M620 (2004)
 - M620 (2003)

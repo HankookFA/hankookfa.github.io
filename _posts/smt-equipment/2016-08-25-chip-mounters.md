@@ -55,11 +55,11 @@ image:
 [29]: {{ site.url }}/smt-equipment/samsung/cp45fv-neo-2005/
 -->
 
-## [Mirae][1]'s Equipments
+## [Mirae][1]'s Equipment
 {: .t60 }
 {% include list-posts tag='Mirae Chip Mounters' %}
 
-## [Samsung][2]'s Equipments
+## [Samsung][2]'s Equipment
 {: .t60 }
 {% include list-posts tag='Samsung Chip Mounters' %}
 

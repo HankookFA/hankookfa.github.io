@@ -128,6 +128,12 @@
 
           
           
+        
+
+              
+
+          
+          
             
             
               <li class="divider"></li>
@@ -165,7 +171,7 @@
 
             
             
-              <li><a href="http://localhost:4000/introduction/">회사소개</a></li>
+              <li><a href="http://localhost:4000/items-wanted/">매입설비</a></li>
               <li class="divider"></li>
 
             
@@ -301,6 +307,21 @@
 
               </li>
               <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a href="http://localhost:4000/package-sale/">패키지 세일</a></li>
+              <li class="divider"></li>
+
+            
             
           
         
@@ -458,7 +479,7 @@
             
               <li><a href="https://www.youtube.com/channel/UCrSVHuhPT3OCFzCZuSp1T_Q" target="_blank" class="icon-youtube" title="한국 FA 공식 유튜브 채널"></a></li>
             
-              <li><a href="http://www.facebook.com/" target="_blank" class="icon-facebook" title="한국 FA 공식 페이스북 페이지"></a></li>
+              <li><a href="https://www.facebook.com/Hankook-FA-1720031758252831/?fref=hovercard" target="_blank" class="icon-facebook" title="한국 FA 공식 페이스북 페이지"></a></li>
             
             </ul>
           </section>

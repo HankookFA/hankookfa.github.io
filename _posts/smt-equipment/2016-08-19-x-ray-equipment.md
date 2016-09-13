@@ -11,8 +11,8 @@ image:
     title: agilent-technologies/x6000-2008.jpg
 ---
 
-## [Agilent Technologies][1]'s Equipments
+## [Agilent Technologies][1]'s Equipment
 {: .t60 }
-{% include list-posts tag='Agilent Technologies X-Ray Equipments' %}
+{% include list-posts tag='Agilent Technologies X-Ray Equipment' %}
 
 [1]: {{ site.url }}/smt-equipment/x-ray-equipment/agilent-technologies/

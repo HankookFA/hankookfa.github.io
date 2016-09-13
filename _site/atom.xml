@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>Hankook FA</title>
-	<updated>2016-09-13T03:20:21+09:00</updated>
+	<updated>2016-09-13T14:32:32+09:00</updated>
 
 	<subtitle>검색엔진에 잘 검색되기 위한 150자 내의 설명.</subtitle>
 
@@ -331,7 +331,7 @@
 [9]: http://localhost:4000/smt-equipment/samsung/cp45fv-neo-2005/
 --&gt;
 
-&lt;h2 class=&quot;t60&quot; id=&quot;samsungs-equipments&quot;&gt;Samsung’s Equipments&lt;/h2&gt;
+&lt;h2 class=&quot;t60&quot; id=&quot;samsungs-equipment&quot;&gt;Samsung’s Equipment&lt;/h2&gt;
 
 &lt;ul class=&quot;side-nav&quot;&gt;
 
@@ -391,7 +391,7 @@
 [5]: http://localhost:4000/smt-equipment/mirae/mx400lp-2009/
 --&gt;
 
-&lt;h2 class=&quot;t60&quot; id=&quot;miraes-equipments&quot;&gt;Mirae’s Equipments&lt;/h2&gt;
+&lt;h2 class=&quot;t60&quot; id=&quot;miraes-equipment&quot;&gt;Mirae’s Equipment&lt;/h2&gt;
 
 &lt;ul class=&quot;side-nav&quot;&gt;
 
@@ -417,10 +417,10 @@
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/smt-equipment/x-ray-equipment/agilent-technologies/medalist-x6000-2008/</id>
-			<title>Medalist x6000 (2008)</title>
-			<link href="http://localhost:4000/smt-equipment/x-ray-equipment/agilent-technologies/medalist-x6000-2008/" rel="alternate" type="text/html" title="Medalist x6000 (2008)" />
-			<updated>2016-08-31T00:00:00+09:00</updated>
+			<id>http://localhost:4000/package-sale/mx400l(2010)(2011)+mx400lp(2011)-3-units-set/</id>
+			<title>MX400L (2010)(2011) + MX400LP (2011)</title>
+			<link href="http://localhost:4000/package-sale/mx400l(2010)(2011)+mx400lp(2011)-3-units-set/" rel="alternate" type="text/html" title="MX400L (2010)(2011) + MX400LP (2011)" />
+			<updated>2016-09-13T00:00:00+09:00</updated>
 
 			
 				
@@ -437,18 +437,43 @@
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/smt-equipment/x-ray-equipment/agilent-technologies/medalist-x6000-2008/">&lt;ul&gt;
-  &lt;li&gt;Vintage: 2008&lt;/li&gt;
+			<content type="html" xml:base="http://localhost:4000/package-sale/mx400l(2010)(2011)+mx400lp(2011)-3-units-set/">&lt;ul&gt;
+  &lt;li&gt;With Feeders
+    &lt;ul&gt;
+      &lt;li&gt;8mm – 60 pcs.&lt;/li&gt;
+      &lt;li&gt;12mm – 3 pcs.&lt;/li&gt;
+      &lt;li&gt;16mm – 3 pcs.&lt;/li&gt;
+      &lt;li&gt;24mm – 2 pcs.&lt;/li&gt;
+      &lt;li&gt;32mm – 1 pc.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;With Nozzles
+    &lt;ul&gt;
+      &lt;li&gt;20 pcs.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;other-x-ray-equipment&quot;&gt;Other X-Ray Equipment&lt;/h3&gt;
+&lt;h3 class=&quot;t60&quot; id=&quot;other-pakage-sales&quot;&gt;Other Pakage Sales&lt;/h3&gt;
 
-&lt;ul class=&quot;side-nav t60&quot;&gt;
+&lt;ul class=&quot;side-nav&quot;&gt;
 
   
     
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/x-ray-equipment/agilent-technologies/medalist-x6000-2008/&quot;&gt;X-Ray Equipment &amp;middot; &lt;strong&gt;Medalist x6000 (2008)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/package-sale/mx400l(2010)(2011)+mx400lp(2011)-3-units-set/&quot;&gt;&lt;strong&gt;MX400L (2010)(2011) + MX400LP (2011)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/package-sale/mx400(2010)(2012)-2-units-set/&quot;&gt;&lt;strong&gt;MX400 (2010)(2012) - 2 units as a set&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/package-sale/mx400(2010)(2012)+mx200l(2012)-3-units-set/&quot;&gt;&lt;strong&gt;MX400 (2010)(2012) + MX200L (2012) - 3 units as a set&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/package-sale/mx200l(2012)+mx200lp(2011)/&quot;&gt;&lt;strong&gt;MX200L (2012) + MX200LP (2011)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/package-sale/mx200(2011)-2-units-set/&quot;&gt;&lt;strong&gt;MX200 (2011) - 2 units as a set&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/package-sale/mx200(2011)+mx200lp(2011)/&quot;&gt;&lt;strong&gt;MX200 (2011) + MX200LP (2011)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/package-sale/mx110(2006)+mx110p(2006)/&quot;&gt;&lt;strong&gt;MX110 (2006) + MX110P (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;http://localhost:4000/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 
@@ -459,22 +484,18 @@
 </content>
 
 			
-				<category term="x-ray-equipment" />
+				<category term="package-sale" />
 			
-			
-				<category term="Agilent Technologies" />
-			
-				<category term="Agilent Technologies X-Ray Equipments" />
 			
 
-			<published>2016-08-31T00:00:00+09:00</published>
+			<published>2016-09-13T00:00:00+09:00</published>
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/smt-equipment/x-ray-equipment/agilent-technologies/</id>
-			<title>Agilent Technologies</title>
-			<link href="http://localhost:4000/smt-equipment/x-ray-equipment/agilent-technologies/" rel="alternate" type="text/html" title="Agilent Technologies" />
-			<updated>2016-08-31T00:00:00+09:00</updated>
+			<id>http://localhost:4000/package-sale/mx400(2010)(2012)-2-units-set/</id>
+			<title>MX400 (2010)(2012) - 2 units as a set</title>
+			<link href="http://localhost:4000/package-sale/mx400(2010)(2012)-2-units-set/" rel="alternate" type="text/html" title="MX400 (2010)(2012) - 2 units as a set" />
+			<updated>2016-09-13T00:00:00+09:00</updated>
 
 			
 				
@@ -491,110 +512,35 @@
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/smt-equipment/x-ray-equipment/agilent-technologies/">&lt;h2 class=&quot;t60&quot; id=&quot;agilent-technologiess-equipments&quot;&gt;Agilent Technologies’s Equipments&lt;/h2&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/x-ray-equipment/agilent-technologies/medalist-x6000-2008/&quot;&gt;X-Ray Equipment &amp;middot; &lt;strong&gt;Medalist x6000 (2008)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
+			<content type="html" xml:base="http://localhost:4000/package-sale/mx400(2010)(2012)-2-units-set/">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;With Feeders: 8mm – 40 pcs.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;With Nozzles – 20 pcs.&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-</content>
-
-			
-				<category term="company" />
-			
-			
-
-			<published>2016-08-31T00:00:00+09:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/smt-equipment/asymtek/</id>
-			<title>Asymtek</title>
-			<link href="http://localhost:4000/smt-equipment/asymtek/" rel="alternate" type="text/html" title="Asymtek" />
-			<updated>2016-08-31T00:00:00+09:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Hankook FA</name>
-					
-					
-						<email>hankookfa@hankookfa.com</email>
-					
-					
-						<uri>http://hankookfa.com/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/smt-equipment/asymtek/">&lt;h2 id=&quot;asymteks-equipments&quot;&gt;Asymtek’s Equipments&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;M620 (2004)&lt;/li&gt;
-  &lt;li&gt;M620 (2003)&lt;/li&gt;
-  &lt;li&gt;M620 (2002)&lt;/li&gt;
-  &lt;li&gt;M620 (2001)&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-
-			
-				<category term="company" />
-			
-			
-
-			<published>2016-08-31T00:00:00+09:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/smt-equipment/reflow-ovens/tsm/n70-1102sh-2013/</id>
-			<title>N70-1102SH (2012)</title>
-			<link href="http://localhost:4000/smt-equipment/reflow-ovens/tsm/n70-1102sh-2013/" rel="alternate" type="text/html" title="N70-1102SH (2012)" />
-			<updated>2016-08-31T00:00:00+09:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Hankook FA</name>
-					
-					
-						<email>hankookfa@hankookfa.com</email>
-					
-					
-						<uri>http://hankookfa.com/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/smt-equipment/reflow-ovens/tsm/n70-1102sh-2013/">&lt;ul&gt;
-  &lt;li&gt;Vintage: 2013&lt;/li&gt;
-  &lt;li&gt;10 Heat Zones + 2 Cool Zones&lt;/li&gt;
-  &lt;li&gt;Flow Direction: Right to Left (Front Rail Fixed)&lt;/li&gt;
-  &lt;li&gt;Chain Type&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;other-reflow-ovens&quot;&gt;Other Reflow Ovens&lt;/h3&gt;
+&lt;h3 class=&quot;t60&quot; id=&quot;other-pakage-sales&quot;&gt;Other Pakage Sales&lt;/h3&gt;
 
 &lt;ul class=&quot;side-nav&quot;&gt;
 
   
     
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/reflow-ovens/tsm/n70-1102sh-2013/&quot;&gt;Reflow Ovens &amp;middot; &lt;strong&gt;N70-1102SH (2012)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/package-sale/mx400l(2010)(2011)+mx400lp(2011)-3-units-set/&quot;&gt;&lt;strong&gt;MX400L (2010)(2011) + MX400LP (2011)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/reflow-ovens/heller/1912exl-2008/&quot;&gt;Reflow Ovens &amp;middot; &lt;strong&gt;1912EXL (2008)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/package-sale/mx400(2010)(2012)-2-units-set/&quot;&gt;&lt;strong&gt;MX400 (2010)(2012) - 2 units as a set&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/reflow-ovens/heller/1809exl-2006/&quot;&gt;Reflow Ovens &amp;middot; &lt;strong&gt;1809EXL (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/package-sale/mx400(2010)(2012)+mx200l(2012)-3-units-set/&quot;&gt;&lt;strong&gt;MX400 (2010)(2012) + MX200L (2012) - 3 units as a set&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/smt-equipment/reflow-ovens/heller/1808exl-2006/&quot;&gt;Reflow Ovens &amp;middot; &lt;strong&gt;1808EXL (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/package-sale/mx200l(2012)+mx200lp(2011)/&quot;&gt;&lt;strong&gt;MX200L (2012) + MX200LP (2011)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/package-sale/mx200(2011)-2-units-set/&quot;&gt;&lt;strong&gt;MX200 (2011) - 2 units as a set&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/package-sale/mx200(2011)+mx200lp(2011)/&quot;&gt;&lt;strong&gt;MX200 (2011) + MX200LP (2011)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/package-sale/mx110(2006)+mx110p(2006)/&quot;&gt;&lt;strong&gt;MX110 (2006) + MX110P (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;http://localhost:4000/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 
@@ -605,15 +551,148 @@
 </content>
 
 			
-				<category term="reflow-ovens" />
+				<category term="package-sale" />
 			
-			
-				<category term="TSM" />
-			
-				<category term="TSM Reflow Ovens" />
 			
 
-			<published>2016-08-31T00:00:00+09:00</published>
+			<published>2016-09-13T00:00:00+09:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/package-sale/mx400(2010)(2012)+mx200l(2012)-3-units-set/</id>
+			<title>MX400 (2010)(2012) + MX200L (2012) - 3 units as a set</title>
+			<link href="http://localhost:4000/package-sale/mx400(2010)(2012)+mx200l(2012)-3-units-set/" rel="alternate" type="text/html" title="MX400 (2010)(2012) + MX200L (2012) - 3 units as a set" />
+			<updated>2016-09-13T00:00:00+09:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Hankook FA</name>
+					
+					
+						<email>hankookfa@hankookfa.com</email>
+					
+					
+						<uri>http://hankookfa.com/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/package-sale/mx400(2010)(2012)+mx200l(2012)-3-units-set/">&lt;ul&gt;
+  &lt;li&gt;No Feeder&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;other-pakage-sales&quot;&gt;Other Pakage Sales&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+    
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/package-sale/mx400l(2010)(2011)+mx400lp(2011)-3-units-set/&quot;&gt;&lt;strong&gt;MX400L (2010)(2011) + MX400LP (2011)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/package-sale/mx400(2010)(2012)-2-units-set/&quot;&gt;&lt;strong&gt;MX400 (2010)(2012) - 2 units as a set&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/package-sale/mx400(2010)(2012)+mx200l(2012)-3-units-set/&quot;&gt;&lt;strong&gt;MX400 (2010)(2012) + MX200L (2012) - 3 units as a set&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/package-sale/mx200l(2012)+mx200lp(2011)/&quot;&gt;&lt;strong&gt;MX200L (2012) + MX200LP (2011)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/package-sale/mx200(2011)-2-units-set/&quot;&gt;&lt;strong&gt;MX200 (2011) - 2 units as a set&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/package-sale/mx200(2011)+mx200lp(2011)/&quot;&gt;&lt;strong&gt;MX200 (2011) + MX200LP (2011)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/package-sale/mx110(2006)+mx110p(2006)/&quot;&gt;&lt;strong&gt;MX110 (2006) + MX110P (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;http://localhost:4000/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="package-sale" />
+			
+			
+
+			<published>2016-09-13T00:00:00+09:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/package-sale/mx200l(2012)+mx200lp(2011)/</id>
+			<title>MX200L (2012) + MX200LP (2011)</title>
+			<link href="http://localhost:4000/package-sale/mx200l(2012)+mx200lp(2011)/" rel="alternate" type="text/html" title="MX200L (2012) + MX200LP (2011)" />
+			<updated>2016-09-13T00:00:00+09:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Hankook FA</name>
+					
+					
+						<email>hankookfa@hankookfa.com</email>
+					
+					
+						<uri>http://hankookfa.com/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/package-sale/mx200l(2012)+mx200lp(2011)/">&lt;ul&gt;
+  &lt;li&gt;With Feeders
+    &lt;ul&gt;
+      &lt;li&gt;8mm – 40 pcs.&lt;/li&gt;
+      &lt;li&gt;12mm – 3 pcs.&lt;/li&gt;
+      &lt;li&gt;16mm – 3 pcs.&lt;/li&gt;
+      &lt;li&gt;24mm – 2 pcs.&lt;/li&gt;
+      &lt;li&gt;32mm – 1 pc.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;With Nozzles
+    &lt;ul&gt;
+      &lt;li&gt;20 pcs.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;other-pakage-sales&quot;&gt;Other Pakage Sales&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+    
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/package-sale/mx400l(2010)(2011)+mx400lp(2011)-3-units-set/&quot;&gt;&lt;strong&gt;MX400L (2010)(2011) + MX400LP (2011)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/package-sale/mx400(2010)(2012)-2-units-set/&quot;&gt;&lt;strong&gt;MX400 (2010)(2012) - 2 units as a set&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/package-sale/mx400(2010)(2012)+mx200l(2012)-3-units-set/&quot;&gt;&lt;strong&gt;MX400 (2010)(2012) + MX200L (2012) - 3 units as a set&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/package-sale/mx200l(2012)+mx200lp(2011)/&quot;&gt;&lt;strong&gt;MX200L (2012) + MX200LP (2011)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/package-sale/mx200(2011)-2-units-set/&quot;&gt;&lt;strong&gt;MX200 (2011) - 2 units as a set&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/package-sale/mx200(2011)+mx200lp(2011)/&quot;&gt;&lt;strong&gt;MX200 (2011) + MX200LP (2011)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/package-sale/mx110(2006)+mx110p(2006)/&quot;&gt;&lt;strong&gt;MX110 (2006) + MX110P (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;http://localhost:4000/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="package-sale" />
+			
+			
+
+			<published>2016-09-13T00:00:00+09:00</published>
 		</entry>
 	
 </feed>

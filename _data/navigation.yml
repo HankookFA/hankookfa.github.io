@@ -2,8 +2,8 @@
   url: "/"
   side: left
 
-- title: "회사소개"
-  url: "/introduction/"
+- title: "매입설비"
+  url: "/items-wanted/"
   side: left
 
 - title: "유휴장비"
@@ -52,7 +52,9 @@
   - title: "Others"
     url: "/smt-equipment/others/"
 
-
+- title: "패키지 세일"
+  url: "/package-sale/"
+  side: left
 
 
 
