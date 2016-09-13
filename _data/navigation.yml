@@ -14,7 +14,7 @@
     url: "/smt-equipment/reflow-ovens/"
   - title: "Screen Printing Equipment"
     url: "/smt-equipment/screen-printing-equipment/"
-  - title: "Loaders, Unloaders"
+  - title: "Loader / Unloader"
     url: "/smt-equipment/loaders-unloaders/"
   - title: "Conveyors"
     url: "/smt-equipment/conveyors/"
@@ -30,6 +30,8 @@
     url: "/smt-equipment/tape-and-reel-equipment/"
   - title: "Inspection Equipment"
     url: "/smt-equipment/inspection-equipment/"
+  - title: "Others"
+    url: "/smt-equipment/others/"
 
 - title: "취급 브랜드"
   url: "/brand-list/"
@@ -45,8 +47,6 @@
     url: "/smt-equipment/tsm/"
   - title: "Agilent Technologies"
     url: "/smt-equipment/agilent-technologies/"
-  - title: "Underfill"
-    url: "/smt-equipment/underfill/"
   - title: "Others"
     url: "/smt-equipment/others/"
 

@@ -11,13 +11,13 @@ widget1:
   title: "유휴 장비 목록"
   url: '/smt-equipment/'
 #  image: hankookfa/stock-list.jpg
-  text: '한국FA에서 보유하고 있는 장비들을 종류별로 확인하실 수 있습니다.</br></br>- SMT</br>Chip Mounter, Multi Mounter, Screen Printer, Reflow Oven, Dispenser, Loader & Unloader, Full Line Machines</br></br>-Insert Machines</br>Axial Inserter, Radial Inserter, Jumper Wire machine, Sequencer'
+  text: '한국FA에서 보유하고 있는 장비들을 종류별로 확인하실 수 있습니다.</br></br>- SMT</br>Chip Mounter, Multi Mounter, Screen Printer, Reflow Oven, Dispenser, Loader & Unloader, Full Line Machines</br></br>-Insert Machines</br>Radial Inserter, Axial Inserter, Sequencer, Jumper Wire machine'
   video: '<a href="#" data-reveal-id="videoModal"><img src="images/hankookfa/sddefault.png" alt=""/></a>'
 widget2:
   title: "취급 브랜드 목록"
   url: '/brand-list/'
   image: hankookfa/brand-list.png
-  text: '각 분야별 고품질의 장비를 브랜드별로 확인하실 수 있습니다.</br></br>- SMT Machines</br>Panasert, Fuji, KME , Sanyo, Juki, Yamaha, Tenryu, Samsung, Mirae</br></br>- Auto Insert Machines</br>Panasert, Universal, Dynapert, TDK</br></br>- Reflow Ovens</br>Heller, TSM, Vitronics</br>'
+  text: '각 분야별 고품질의 장비를 브랜드별로 확인하실 수 있습니다.</br></br>- SMT Machines</br>Samsung, Mirae, Panasert, Yamaha, Juki, Fuji, KME , Sanyo, Tenryu</br></br>- Reflow Ovens</br>Heller, TSM, Vitronics</br></br>- Auto Insert Machines</br>Panasert, Universal, Dynapert, TDK</br>'
 widget3:
   title: "패키지 세일"
   url: '/package-sale/'

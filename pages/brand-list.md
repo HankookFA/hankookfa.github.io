@@ -28,6 +28,10 @@ permalink: "/brand-list/"
 {: .t60 }
 {% include list-posts tag='Agilent Technologies' %}
 
+## Rom Write Programming M/C ##        
+
+- FLX500 (2010) – 2 units
+
 ## Asymtek's Equipment ##
 
 - M620 (2004)

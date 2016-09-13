@@ -200,7 +200,7 @@
 
                       
 
-                      <li><a href="http://localhost:4000/smt-equipment/loaders-unloaders/">Loaders, Unloaders</a></li>
+                      <li><a href="http://localhost:4000/smt-equipment/loaders-unloaders/">Loader / Unloader</a></li>
                     
 
                       
@@ -236,6 +236,11 @@
                       
 
                       <li><a href="http://localhost:4000/smt-equipment/inspection-equipment/">Inspection Equipment</a></li>
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/smt-equipment/others/">Others</a></li>
                     
                   </ul>
 
@@ -282,11 +287,6 @@
                       
 
                       <li><a href="http://localhost:4000/smt-equipment/agilent-technologies/">Agilent Technologies</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/smt-equipment/underfill/">Underfill</a></li>
                     
 
                       
