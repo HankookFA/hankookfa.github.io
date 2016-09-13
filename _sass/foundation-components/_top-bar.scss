@@ -321,7 +321,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
           padding-#{$default-float}: $topbar-link-padding;
           font-family: $topbar-link-font-family;
           font-size: $topbar-link-font-size;
-          font-weight: $topbar-link-weight;
+          font-weight: bold;
           text-transform: $topbar-link-text-transform;
 
           &.button {
