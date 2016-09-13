@@ -12,8 +12,6 @@ image:
 
 ---
 
-~~~
-TEL. (032) 321-5396
-FAX. (032) 321-5468
-Email. hankookfa@hankookfa.com
-~~~
+TEL. (032) 321-5396  
+FAX. (032) 321-5468  
+Email. [hankookfa@hankookfa.com](mailto:hankookfa@hankookfa.com)  
