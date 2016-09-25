@@ -237,7 +237,7 @@ Asymtek’s Underfill
 
             
             
-              <li ><a id="/" href="https://hankookfa.github.io/cn/">Home</a></li>
+              <li ><a id="/" href="#" onclick="getRoot(sessionStorage.getItem('lang'));">Home</a></li>
               <li class="divider"></li>
 
             
@@ -393,7 +393,7 @@ Asymtek’s Underfill
 
             
             
-              <li ><a id="/package-sale/" href="https://hankookfa.github.io/cn/package-sale/">打包出售</a></li>
+              <li ><a id="/package-sale/" href="https://hankookfa.github.io/cn/package-sale/" onclick="getRoot(sessionStorage.getItem('lang'));">打包出售</a></li>
               <li class="divider"></li>
 
             
@@ -408,7 +408,7 @@ Asymtek’s Underfill
 
             
             
-              <li ><a id="/items-wanted/" href="https://hankookfa.github.io/cn/items-wanted/">매입설비(중)</a></li>
+              <li ><a id="/items-wanted/" href="https://hankookfa.github.io/cn/items-wanted/" onclick="getRoot(sessionStorage.getItem('lang'));">매입설비(중)</a></li>
               <li class="divider"></li>
 
             
@@ -464,6 +464,18 @@ window.onload = function () {
       default:
         break;
     }
+  }
+}
+
+function getRoot(lang) {
+  switch (lang) {
+    case 'cn': location.href = '/cn/';
+      break;
+    case 'kr': location.href = '/kr/';
+      break;
+    case 'en': location.href = '/en/';
+      break;
+    default: location.href = '/';
   }
 }
 

@@ -199,7 +199,7 @@
 
             
             
-              <li ><a id="/" href="https://hankookfa.github.io/kr/">Home</a></li>
+              <li ><a id="/" href="#" onclick="getRoot(sessionStorage.getItem('lang'));">Home</a></li>
               <li class="divider"></li>
 
             
@@ -355,7 +355,7 @@
 
             
             
-              <li ><a id="/package-sale/" href="https://hankookfa.github.io/kr/package-sale/">패키지 세일</a></li>
+              <li ><a id="/package-sale/" href="https://hankookfa.github.io/kr/package-sale/" onclick="getRoot(sessionStorage.getItem('lang'));">패키지 세일</a></li>
               <li class="divider"></li>
 
             
@@ -370,7 +370,7 @@
 
             
             
-              <li ><a id="/items-wanted/" href="https://hankookfa.github.io/kr/items-wanted/">매입설비</a></li>
+              <li ><a id="/items-wanted/" href="https://hankookfa.github.io/kr/items-wanted/" onclick="getRoot(sessionStorage.getItem('lang'));">매입설비</a></li>
               <li class="divider"></li>
 
             
@@ -426,6 +426,18 @@ window.onload = function () {
       default:
         break;
     }
+  }
+}
+
+function getRoot(lang) {
+  switch (lang) {
+    case 'cn': location.href = '/cn/';
+      break;
+    case 'kr': location.href = '/kr/';
+      break;
+    case 'en': location.href = '/en/';
+      break;
+    default: location.href = '/';
   }
 }
 

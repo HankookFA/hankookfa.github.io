@@ -199,7 +199,7 @@ Email. &amp;#104;&amp;#097;&amp;#110;&amp;#107;&amp;#111;&amp;#111;&amp;#107;&am
 
             
             
-              <li ><a id="/" href="https://hankookfa.github.io/en/">Home</a></li>
+              <li ><a id="/" href="#" onclick="getRoot(sessionStorage.getItem('lang'));">Home</a></li>
               <li class="divider"></li>
 
             
@@ -355,7 +355,7 @@ Email. &amp;#104;&amp;#097;&amp;#110;&amp;#107;&amp;#111;&amp;#111;&amp;#107;&am
 
             
             
-              <li ><a id="/package-sale/" href="https://hankookfa.github.io/en/package-sale/">Package Sale</a></li>
+              <li ><a id="/package-sale/" href="https://hankookfa.github.io/en/package-sale/" onclick="getRoot(sessionStorage.getItem('lang'));">Package Sale</a></li>
               <li class="divider"></li>
 
             
@@ -370,7 +370,7 @@ Email. &amp;#104;&amp;#097;&amp;#110;&amp;#107;&amp;#111;&amp;#111;&amp;#107;&am
 
             
             
-              <li ><a id="/items-wanted/" href="https://hankookfa.github.io/en/items-wanted/">Items Wanted</a></li>
+              <li ><a id="/items-wanted/" href="https://hankookfa.github.io/en/items-wanted/" onclick="getRoot(sessionStorage.getItem('lang'));">Items Wanted</a></li>
               <li class="divider"></li>
 
             
@@ -426,6 +426,18 @@ window.onload = function () {
       default:
         break;
     }
+  }
+}
+
+function getRoot(lang) {
+  switch (lang) {
+    case 'cn': location.href = '/cn/';
+      break;
+    case 'kr': location.href = '/kr/';
+      break;
+    case 'en': location.href = '/en/';
+      break;
+    default: location.href = '/';
   }
 }
 

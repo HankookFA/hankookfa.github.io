@@ -185,7 +185,7 @@
 
             
             
-              <li  class="active"><a id="/" href="https://hankookfa.github.io/cn/">Home</a></li>
+              <li  class="active"><a id="/" href="#" onclick="getRoot(sessionStorage.getItem('lang'));">Home</a></li>
               <li class="divider"></li>
 
             
@@ -341,7 +341,7 @@
 
             
             
-              <li ><a id="/package-sale/" href="https://hankookfa.github.io/cn/package-sale/">打包出售</a></li>
+              <li ><a id="/package-sale/" href="https://hankookfa.github.io/cn/package-sale/" onclick="getRoot(sessionStorage.getItem('lang'));">打包出售</a></li>
               <li class="divider"></li>
 
             
@@ -356,7 +356,7 @@
 
             
             
-              <li ><a id="/items-wanted/" href="https://hankookfa.github.io/cn/items-wanted/">매입설비(중)</a></li>
+              <li ><a id="/items-wanted/" href="https://hankookfa.github.io/cn/items-wanted/" onclick="getRoot(sessionStorage.getItem('lang'));">매입설비(중)</a></li>
               <li class="divider"></li>
 
             
@@ -412,6 +412,18 @@ window.onload = function () {
       default:
         break;
     }
+  }
+}
+
+function getRoot(lang) {
+  switch (lang) {
+    case 'cn': location.href = '/cn/';
+      break;
+    case 'kr': location.href = '/kr/';
+      break;
+    case 'en': location.href = '/en/';
+      break;
+    default: location.href = '/';
   }
 }
 
@@ -591,7 +603,24 @@ window.onload = function () {
 
 <script>
   if (window.sessionStorage) {
-    sessionStorage.setItem('lang', 'cn');
+    if (!sessionStorage.getItem('lang')) {
+      switch (window.navigator.language) {
+        case 'ko':  sessionStorage.setItem('lang', 'kr');
+                    location.href = '/kr/';
+          break;
+        case 'en':  sessionStorage.setItem('lang', 'en');
+                    location.href = '/en/';
+          break;
+        case 'zh':  sessionStorage.setItem('lang', 'cn');
+                    location.href = '/cn/';
+          break;
+        default:  sessionStorage.setItem('lang', 'en');
+                  location.href = '/en/';
+          break;
+      }
+    } else {
+      sessionStorage.setItem('lang', 'cn');
+    }
   }
 </script>
 
