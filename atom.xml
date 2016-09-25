@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://hankookfa.github.io/</id>
 	<title>Hankook FA</title>
-	<updated>2016-09-25T18:10:35+09:00</updated>
+	<updated>2016-09-25T20:38:12+09:00</updated>
 
 	<subtitle>검색엔진에 잘 검색되기 위한 150자 내의 설명.</subtitle>
 
@@ -58,7 +58,8 @@
 &lt;/div&gt;
 &lt;!-- /.row --&gt;
 
-&lt;p&gt;★ 필요하신 피더나 노즐, 부품이 있으시면 부품 이름, 번호, 수량 등을 이메일로 보내주세요. 확인 후 바로 연락 드리겠습니다 ☺ ★&lt;/p&gt;
+&lt;p id=&quot;i18n&quot;&gt;
+&lt;/p&gt;
 
 &lt;h3 class=&quot;t60&quot; id=&quot;other-feeder-and-spare-parts&quot;&gt;Other Feeder and Spare Parts&lt;/h3&gt;
 
@@ -80,6 +81,21 @@
 
   
 &lt;/ul&gt;
+
+&lt;script&gt;
+  if (window.sessionStorage) {
+    switch ( sessionStorage.getItem(&#39;lang&#39;)) {
+      case &#39;cn&#39;: document.getElementById(&quot;i18n&quot;).innerHTML = &#39;如有需要的飞达，吸嘴，配件。确认品名，序列号，数量，发邮件，我们会第一时间回复您。&#39;
+        break;
+      case &#39;kr&#39;: document.getElementById(&quot;i18n&quot;).innerHTML = &#39;★ 필요하신 피더나 노즐, 부품이 있으시면 부품 이름, 번호, 수량 등을 이메일로 보내주세요. 확인 후 바로 연락 드리겠습니다 ☺ ★&#39;
+        break;
+      case &#39;en&#39;: document.getElementById(&quot;i18n&quot;).innerHTML = &#39;If you need any feeders, nozzles or spare parts, please email us a detailed request. We will get back to you as soon as possible.&#39;
+        break;
+      default:
+        break;
+    }
+  }
+&lt;/script&gt;
 
 </content>
 
@@ -123,7 +139,8 @@
 &lt;/div&gt;
 &lt;!-- /.row --&gt;
 
-&lt;p&gt;★ 필요하신 피더나 노즐, 부품이 있으시면 부품 이름, 번호, 수량 등을 이메일로 보내주세요. 확인 후 바로 연락 드리겠습니다 ☺ ★&lt;/p&gt;
+&lt;p id=&quot;i18n&quot;&gt;
+&lt;/p&gt;
 
 &lt;h3 class=&quot;t60&quot; id=&quot;other-feeder-and-spare-parts&quot;&gt;Other Feeder and Spare Parts&lt;/h3&gt;
 
@@ -145,6 +162,21 @@
 
   
 &lt;/ul&gt;
+
+&lt;script&gt;
+  if (window.sessionStorage) {
+    switch ( sessionStorage.getItem(&#39;lang&#39;)) {
+      case &#39;cn&#39;: document.getElementById(&quot;i18n&quot;).innerHTML = &#39;如有需要的飞达，吸嘴，配件。确认品名，序列号，数量，发邮件，我们会第一时间回复您。&#39;
+        break;
+      case &#39;kr&#39;: document.getElementById(&quot;i18n&quot;).innerHTML = &#39;★ 필요하신 피더나 노즐, 부품이 있으시면 부품 이름, 번호, 수량 등을 이메일로 보내주세요. 확인 후 바로 연락 드리겠습니다 ☺ ★&#39;
+        break;
+      case &#39;en&#39;: document.getElementById(&quot;i18n&quot;).innerHTML = &#39;If you need any feeders, nozzles or spare parts, please email us a detailed request. We will get back to you as soon as possible.&#39;
+        break;
+      default:
+        break;
+    }
+  }
+&lt;/script&gt;
 
 </content>
 
@@ -193,7 +225,8 @@
 &lt;/div&gt;
 &lt;!-- /.row --&gt;
 
-&lt;p&gt;★ 필요하신 피더나 노즐, 부품이 있으시면 부품 이름, 번호, 수량 등을 이메일로 보내주세요. 확인 후 바로 연락 드리겠습니다 ☺ ★&lt;/p&gt;
+&lt;p id=&quot;i18n&quot;&gt;
+&lt;/p&gt;
 
 &lt;h3 class=&quot;t60&quot; id=&quot;other-feeder-and-spare-parts&quot;&gt;Other Feeder and Spare Parts&lt;/h3&gt;
 
@@ -215,6 +248,21 @@
 
   
 &lt;/ul&gt;
+
+&lt;script&gt;
+  if (window.sessionStorage) {
+    switch ( sessionStorage.getItem(&#39;lang&#39;)) {
+      case &#39;cn&#39;: document.getElementById(&quot;i18n&quot;).innerHTML = &#39;如有需要的飞达，吸嘴，配件。确认品名，序列号，数量，发邮件，我们会第一时间回复您。&#39;
+        break;
+      case &#39;kr&#39;: document.getElementById(&quot;i18n&quot;).innerHTML = &#39;★ 필요하신 피더나 노즐, 부품이 있으시면 부품 이름, 번호, 수량 등을 이메일로 보내주세요. 확인 후 바로 연락 드리겠습니다 ☺ ★&#39;
+        break;
+      case &#39;en&#39;: document.getElementById(&quot;i18n&quot;).innerHTML = &#39;If you need any feeders, nozzles or spare parts, please email us a detailed request. We will get back to you as soon as possible.&#39;
+        break;
+      default:
+        break;
+    }
+  }
+&lt;/script&gt;
 
 </content>
 
@@ -251,7 +299,8 @@
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/mirae/nozzles/">&lt;p&gt;★ 필요하신 피더나 노즐, 부품이 있으시면 부품 이름, 번호, 수량 등을 이메일로 보내주세요. 확인 후 바로 연락 드리겠습니다 ☺ ★&lt;/p&gt;
+			<content type="html" xml:base="https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/mirae/nozzles/">&lt;p id=&quot;i18n&quot;&gt;
+&lt;/p&gt;
 
 &lt;h3 class=&quot;t60&quot; id=&quot;other-feeder-and-spare-parts&quot;&gt;Other Feeder and Spare Parts&lt;/h3&gt;
 
@@ -273,6 +322,21 @@
 
   
 &lt;/ul&gt;
+
+&lt;script&gt;
+  if (window.sessionStorage) {
+    switch ( sessionStorage.getItem(&#39;lang&#39;)) {
+      case &#39;cn&#39;: document.getElementById(&quot;i18n&quot;).innerHTML = &#39;如有需要的飞达，吸嘴，配件。确认品名，序列号，数量，发邮件，我们会第一时间回复您。&#39;
+        break;
+      case &#39;kr&#39;: document.getElementById(&quot;i18n&quot;).innerHTML = &#39;★ 필요하신 피더나 노즐, 부품이 있으시면 부품 이름, 번호, 수량 등을 이메일로 보내주세요. 확인 후 바로 연락 드리겠습니다 ☺ ★&#39;
+        break;
+      case &#39;en&#39;: document.getElementById(&quot;i18n&quot;).innerHTML = &#39;If you need any feeders, nozzles or spare parts, please email us a detailed request. We will get back to you as soon as possible.&#39;
+        break;
+      default:
+        break;
+    }
+  }
+&lt;/script&gt;
 
 </content>
 

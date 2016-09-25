@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 49 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 47 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
 	<loc>https://hankookfa.github.io/404.html</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -22,7 +22,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/blog/archive/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -39,7 +39,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/atom.xml</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -56,7 +56,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/cn/brand-list/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -71,7 +71,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/en/brand-list/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -86,7 +86,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/kr/brand-list/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -101,7 +101,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/brand-list/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -116,7 +116,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/cn/contact/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -131,7 +131,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/en/contact/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -146,7 +146,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/kr/contact/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -161,7 +161,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/contact/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -176,7 +176,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/feed.xml</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -191,7 +191,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/headers/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -206,7 +206,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/humans.txt</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -221,7 +221,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/cn/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -236,7 +236,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/en/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -251,7 +251,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/blog/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -266,7 +266,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/kr/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -281,7 +281,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -296,7 +296,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/cn/items-wanted/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -311,7 +311,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/en/items-wanted/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -326,7 +326,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/kr/items-wanted/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -341,7 +341,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/items-wanted/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -356,7 +356,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/cn/package-sale/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -371,7 +371,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/en/package-sale/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -386,7 +386,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/kr/package-sale/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -401,7 +401,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/package-sale/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -416,7 +416,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/redirect-page/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -431,7 +431,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/robots.txt</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -450,7 +450,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/search/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -465,7 +465,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/sitemap.xml</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -480,7 +480,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/cn/smt-equipment/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -495,7 +495,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/en/smt-equipment/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -510,7 +510,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/kr/smt-equipment/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -525,7 +525,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/smt-equipment/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -542,7 +542,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/blog/page2/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -557,7 +557,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/blog/page3/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -572,7 +572,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/blog/page4/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -587,7 +587,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/blog/page5/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -602,7 +602,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/blog/page6/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -617,7 +617,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/blog/page7/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -632,37 +632,7 @@
 	<url>
 	<loc>https://hankookfa.github.io/blog/page8/</loc>
 	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://hankookfa.github.io/blog/page9/</loc>
-	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://hankookfa.github.io/blog/page10/</loc>
-	
-		<lastmod>2016-09-25T18:10:35+09:00</lastmod>
+		<lastmod>2016-09-25T20:38:12+09:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -674,7 +644,7 @@
 	
 
 
-<!-- Posts: 58 links with priority=0.5, changefreq=monthly -->
+<!-- Posts: 82 links with priority=0.5, changefreq=monthly -->
 
 	
 	<url>
@@ -1323,7 +1293,7 @@
 
 	
 	<url>
-	<loc>https://hankookfa.github.io/smt-equipment/chip-mounters/</loc>
+	<loc>https://hankookfa.github.io/kr/smt-equipment/chip-mounters/</loc>
 	
 		<lastmod>2016-08-25T00:00:00+09:00</lastmod>
 	
@@ -1338,7 +1308,37 @@
 
 	
 	<url>
-	<loc>https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/</loc>
+	<loc>https://hankookfa.github.io/en/smt-equipment/chip-mounters/</loc>
+	
+		<lastmod>2016-08-25T00:00:00+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://hankookfa.github.io/cn/smt-equipment/chip-mounters/</loc>
+	
+		<lastmod>2016-08-25T00:00:00+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://hankookfa.github.io/kr/smt-equipment/feeders-and-spare-parts/</loc>
 	
 		<lastmod>2016-08-24T00:00:00+09:00</lastmod>
 	
@@ -1353,7 +1353,37 @@
 
 	
 	<url>
-	<loc>https://hankookfa.github.io/smt-equipment/reflow-ovens/</loc>
+	<loc>https://hankookfa.github.io/en/smt-equipment/feeders-and-spare-parts/</loc>
+	
+		<lastmod>2016-08-24T00:00:00+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://hankookfa.github.io/cn/smt-equipment/feeders-and-spare-parts/</loc>
+	
+		<lastmod>2016-08-24T00:00:00+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://hankookfa.github.io/kr/smt-equipment/reflow-ovens/</loc>
 	
 		<lastmod>2016-08-23T00:00:00+09:00</lastmod>
 	
@@ -1368,7 +1398,37 @@
 
 	
 	<url>
-	<loc>https://hankookfa.github.io/smt-equipment/screen-printing-equipment/</loc>
+	<loc>https://hankookfa.github.io/en/smt-equipment/reflow-ovens/</loc>
+	
+		<lastmod>2016-08-23T00:00:00+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://hankookfa.github.io/cn/smt-equipment/reflow-ovens/</loc>
+	
+		<lastmod>2016-08-23T00:00:00+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://hankookfa.github.io/kr/smt-equipment/screen-printing-equipment/</loc>
 	
 		<lastmod>2016-08-22T00:00:00+09:00</lastmod>
 	
@@ -1383,7 +1443,37 @@
 
 	
 	<url>
-	<loc>https://hankookfa.github.io/smt-equipment/loaders-unloaders/</loc>
+	<loc>https://hankookfa.github.io/en/smt-equipment/screen-printing-equipment/</loc>
+	
+		<lastmod>2016-08-22T00:00:00+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://hankookfa.github.io/cn/smt-equipment/screen-printing-equipment/</loc>
+	
+		<lastmod>2016-08-22T00:00:00+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://hankookfa.github.io/kr/smt-equipment/loaders-unloaders/</loc>
 	
 		<lastmod>2016-08-21T00:00:00+09:00</lastmod>
 	
@@ -1398,7 +1488,7 @@
 
 	
 	<url>
-	<loc>https://hankookfa.github.io/smt-equipment/conveyors/</loc>
+	<loc>https://hankookfa.github.io/en/smt-equipment/loaders-unloaders/</loc>
 	
 		<lastmod>2016-08-21T00:00:00+09:00</lastmod>
 	
@@ -1413,7 +1503,67 @@
 
 	
 	<url>
-	<loc>https://hankookfa.github.io/smt-equipment/aoi-and-spi/</loc>
+	<loc>https://hankookfa.github.io/cn/smt-equipment/loaders-unloaders/</loc>
+	
+		<lastmod>2016-08-21T00:00:00+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://hankookfa.github.io/kr/smt-equipment/conveyors/</loc>
+	
+		<lastmod>2016-08-21T00:00:00+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://hankookfa.github.io/en/smt-equipment/conveyors/</loc>
+	
+		<lastmod>2016-08-21T00:00:00+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://hankookfa.github.io/cn/smt-equipment/conveyors/</loc>
+	
+		<lastmod>2016-08-21T00:00:00+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://hankookfa.github.io/kr/smt-equipment/aoi-and-spi/</loc>
 	
 		<lastmod>2016-08-20T00:00:00+09:00</lastmod>
 	
@@ -1428,7 +1578,37 @@
 
 	
 	<url>
-	<loc>https://hankookfa.github.io/smt-equipment/x-ray-equipment/</loc>
+	<loc>https://hankookfa.github.io/en/smt-equipment/aoi-and-spi/</loc>
+	
+		<lastmod>2016-08-20T00:00:00+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://hankookfa.github.io/cn/smt-equipment/aoi-and-spi/</loc>
+	
+		<lastmod>2016-08-20T00:00:00+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://hankookfa.github.io/kr/smt-equipment/x-ray-equipment/</loc>
 	
 		<lastmod>2016-08-19T00:00:00+09:00</lastmod>
 	
@@ -1443,7 +1623,37 @@
 
 	
 	<url>
-	<loc>https://hankookfa.github.io/smt-equipment/wave-solder-equipment/</loc>
+	<loc>https://hankookfa.github.io/en/smt-equipment/x-ray-equipment/</loc>
+	
+		<lastmod>2016-08-19T00:00:00+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://hankookfa.github.io/cn/smt-equipment/x-ray-equipment/</loc>
+	
+		<lastmod>2016-08-19T00:00:00+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://hankookfa.github.io/kr/smt-equipment/wave-solder-equipment/</loc>
 	
 		<lastmod>2016-08-18T00:00:00+09:00</lastmod>
 	
@@ -1458,7 +1668,37 @@
 
 	
 	<url>
-	<loc>https://hankookfa.github.io/smt-equipment/auto-insert-machines/</loc>
+	<loc>https://hankookfa.github.io/en/smt-equipment/wave-solder-equipment/</loc>
+	
+		<lastmod>2016-08-18T00:00:00+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://hankookfa.github.io/cn/smt-equipment/wave-solder-equipment/</loc>
+	
+		<lastmod>2016-08-18T00:00:00+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://hankookfa.github.io/kr/smt-equipment/auto-insert-machines/</loc>
 	
 		<lastmod>2016-08-17T00:00:00+09:00</lastmod>
 	
@@ -1473,7 +1713,67 @@
 
 	
 	<url>
-	<loc>https://hankookfa.github.io/smt-equipment/tape-and-reel-equipment/</loc>
+	<loc>https://hankookfa.github.io/en/smt-equipment/auto-insert-machines/</loc>
+	
+		<lastmod>2016-08-17T00:00:00+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://hankookfa.github.io/cn/smt-equipment/auto-insert-machines/</loc>
+	
+		<lastmod>2016-08-17T00:00:00+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://hankookfa.github.io/kr/smt-equipment/tape-and-reel-equipment/</loc>
+	
+		<lastmod>2016-08-16T00:00:00+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://hankookfa.github.io/en/smt-equipment/tape-and-reel-equipment/</loc>
+	
+		<lastmod>2016-08-16T00:00:00+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://hankookfa.github.io/cn/smt-equipment/tape-and-reel-equipment/</loc>
 	
 		<lastmod>2016-08-16T00:00:00+09:00</lastmod>
 	
@@ -1533,7 +1833,37 @@
 
 	
 	<url>
-	<loc>https://hankookfa.github.io/smt-equipment/others/</loc>
+	<loc>https://hankookfa.github.io/kr/smt-equipment/others/</loc>
+	
+		<lastmod>2016-08-01T00:00:00+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://hankookfa.github.io/en/smt-equipment/others/</loc>
+	
+		<lastmod>2016-08-01T00:00:00+09:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://hankookfa.github.io/cn/smt-equipment/others/</loc>
 	
 		<lastmod>2016-08-01T00:00:00+09:00</lastmod>
 	
