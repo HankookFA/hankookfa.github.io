@@ -8,7 +8,8 @@ header:
 permalink: "/smt-equipment/"
 ---
 <ul>
-    {% for post in site.categories.smt-equipment %}
-    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+{% for post in site.categories.smt-equipment %}
+  <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+
 </ul>

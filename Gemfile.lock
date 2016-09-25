@@ -17,6 +17,7 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-gist (1.4.0)
       octokit (~> 4.2)
+    jekyll-multiple-languages (2.0.3)
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
@@ -47,7 +48,8 @@ PLATFORMS
 DEPENDENCIES
   jekyll (= 3.0.2)
   jekyll-gist
+  jekyll-multiple-languages
   jekyll-paginate
 
 BUNDLED WITH
-   1.10.6
+   1.12.5

@@ -1,8 +1,12 @@
-- title: Home
+- title-en: "Home"
+  title-kr: "Home"
+  title-cn: "Home"
   url: "/"
   side: left
 
-- title: "유휴장비"
+- title-en: "Stock List"
+  title-kr: "유휴 장비"
+  title-cn: "库存设备"
   url: "/smt-equipment/"
   side: left
   dropdown:
@@ -33,7 +37,9 @@
   - title: "Others"
     url: "/smt-equipment/others/"
 
-- title: "취급 브랜드"
+- title-en: "Brands List"
+  title-kr: "취급 브랜드"
+  title-cn: "在做品牌"
   url: "/brand-list/"
   side: left
   dropdown:
@@ -50,11 +56,15 @@
   - title: "Others"
     url: "/smt-equipment/others/"
 
-- title: "패키지 세일"
+- title-en: "Package Sale"
+  title-kr: "패키지 세일"
+  title-cn: "打包出售"
   url: "/package-sale/"
   side: left
 
-- title: "매입설비"
+- title-en: "Items Wanted"
+  title-kr: "매입설비"
+  title-cn: "매입설비(중)"
   url: "/items-wanted/"
   side: left
 
@@ -80,7 +90,20 @@
 # - title: "Search"
 #   url: "/search/"
 #   side: right
+- title-en: "Language"
+  title-kr: "언어"
+  title-cn: "언어(중)"
+  side: right
+  dropdown:
+  - title: "English"
+    url: "/"
+  - title: "Chinese"
+    url: "/cn/"
+  - title: "Korean"
+    url: "/kr/"
 
-- title: "Contact"
+- title-en: "Contact"
+  title-kr: "연락처"
+  title-cn: "연락처(중)"
   url: "/contact/"
   side: right
