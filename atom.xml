@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://hankookfa.github.io/</id>
 	<title>Hankook FA</title>
-	<updated>2016-09-26T13:26:09+09:00</updated>
+	<updated>2016-09-26T15:13:04+09:00</updated>
 
 	<subtitle>검색엔진에 잘 검색되기 위한 150자 내의 설명.</subtitle>
 
@@ -24,333 +24,6 @@
 
 	<generator uri="http://jekyllrb.com" version="3.0.2">Jekyll</generator>
 
-	
-		<entry>
-			<id>https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/samsung/used-sm-non-it-feeders/</id>
-			<title>USED SM Non-IT Feeders (8mm ~ 56mm)</title>
-			<link href="https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/samsung/used-sm-non-it-feeders/" rel="alternate" type="text/html" title="USED SM Non-IT Feeders (8mm ~ 56mm)" />
-			<updated>2016-09-13T00:00:00+09:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Hankook FA</name>
-					
-					
-						<email>hankookfa@hankookfa.com</email>
-					
-					
-						<uri>http://hankookfa.com/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/samsung/used-sm-non-it-feeders/">&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;medium-6 columns t30&quot;&gt;
-    &lt;img src=&quot;https://hankookfa.github.io/images/hankookfa/SM Non-IT Feeders/SM_Non-IT.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;/div&gt;&lt;!-- /.medium-8.columns --&gt;
-
-    &lt;div class=&quot;medium-6 columns t30&quot;&gt;
-      &lt;img src=&quot;https://hankookfa.github.io/images/hankookfa/SM Non-IT Feeders/SM_normal_type_pin.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
-
-&lt;/div&gt;
-&lt;!-- /.row --&gt;
-
-&lt;p id=&quot;i18n&quot;&gt;
-&lt;/p&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;other-feeder-and-spare-parts&quot;&gt;Other Feeder and Spare Parts&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-    
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/samsung/used-sm-non-it-feeders/&quot;&gt;Feeders and Spare Parts &amp;middot; &lt;strong&gt;USED SM Non-IT Feeders (8mm ~ 56mm)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/samsung/used-sm-it-feeders/&quot;&gt;Feeders and Spare Parts &amp;middot; &lt;strong&gt;USED SM IT Feeders&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/mirae/used-c-feeders/&quot;&gt;Feeders and Spare Parts &amp;middot; &lt;strong&gt;USED C-Feeders (8mm ~ 56mm)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/mirae/nozzles/&quot;&gt;Feeders and Spare Parts &amp;middot; &lt;strong&gt;Nozzles&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://hankookfa.github.io/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-
-
-  
-&lt;/ul&gt;
-
-&lt;script&gt;
-  if (window.sessionStorage) {
-    switch ( sessionStorage.getItem(&#39;lang&#39;)) {
-      case &#39;cn&#39;: document.getElementById(&quot;i18n&quot;).innerHTML = &#39;如有需要的飞达，吸嘴，配件。确认品名，序列号，数量，发邮件，我们会第一时间回复您。&#39;
-        break;
-      case &#39;kr&#39;: document.getElementById(&quot;i18n&quot;).innerHTML = &#39;★ 필요하신 피더나 노즐, 부품이 있으시면 부품 이름, 번호, 수량 등을 이메일로 보내주세요. 확인 후 바로 연락 드리겠습니다 ☺ ★&#39;
-        break;
-      case &#39;en&#39;: document.getElementById(&quot;i18n&quot;).innerHTML = &#39;If you need any feeders, nozzles or spare parts, please email us a detailed request. We will get back to you as soon as possible.&#39;
-        break;
-      default:
-        break;
-    }
-  }
-&lt;/script&gt;
-
-</content>
-
-			
-				<category term="Feeders and Spare Parts" />
-			
-			
-				<category term="Samsung" />
-			
-				<category term="Samsung Feeders and Spare Parts" />
-			
-
-			<published>2016-09-13T00:00:00+09:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/samsung/used-sm-it-feeders/</id>
-			<title>USED SM IT Feeders</title>
-			<link href="https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/samsung/used-sm-it-feeders/" rel="alternate" type="text/html" title="USED SM IT Feeders" />
-			<updated>2016-09-13T00:00:00+09:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Hankook FA</name>
-					
-					
-						<email>hankookfa@hankookfa.com</email>
-					
-					
-						<uri>http://hankookfa.com/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/samsung/used-sm-it-feeders/">&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;medium-12 columns t30&quot;&gt;
-    &lt;img src=&quot;https://hankookfa.github.io/images/hankookfa/SM IT Feeders/Old Type.png&quot; alt=&quot;&quot; /&gt;
-    &lt;/div&gt;&lt;!-- /.medium-8.columns --&gt;
-&lt;/div&gt;
-&lt;!-- /.row --&gt;
-
-&lt;p id=&quot;i18n&quot;&gt;
-&lt;/p&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;other-feeder-and-spare-parts&quot;&gt;Other Feeder and Spare Parts&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-    
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/samsung/used-sm-non-it-feeders/&quot;&gt;Feeders and Spare Parts &amp;middot; &lt;strong&gt;USED SM Non-IT Feeders (8mm ~ 56mm)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/samsung/used-sm-it-feeders/&quot;&gt;Feeders and Spare Parts &amp;middot; &lt;strong&gt;USED SM IT Feeders&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/mirae/used-c-feeders/&quot;&gt;Feeders and Spare Parts &amp;middot; &lt;strong&gt;USED C-Feeders (8mm ~ 56mm)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/mirae/nozzles/&quot;&gt;Feeders and Spare Parts &amp;middot; &lt;strong&gt;Nozzles&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://hankookfa.github.io/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-
-
-  
-&lt;/ul&gt;
-
-&lt;script&gt;
-  if (window.sessionStorage) {
-    switch ( sessionStorage.getItem(&#39;lang&#39;)) {
-      case &#39;cn&#39;: document.getElementById(&quot;i18n&quot;).innerHTML = &#39;如有需要的飞达，吸嘴，配件。确认品名，序列号，数量，发邮件，我们会第一时间回复您。&#39;
-        break;
-      case &#39;kr&#39;: document.getElementById(&quot;i18n&quot;).innerHTML = &#39;★ 필요하신 피더나 노즐, 부품이 있으시면 부품 이름, 번호, 수량 등을 이메일로 보내주세요. 확인 후 바로 연락 드리겠습니다 ☺ ★&#39;
-        break;
-      case &#39;en&#39;: document.getElementById(&quot;i18n&quot;).innerHTML = &#39;If you need any feeders, nozzles or spare parts, please email us a detailed request. We will get back to you as soon as possible.&#39;
-        break;
-      default:
-        break;
-    }
-  }
-&lt;/script&gt;
-
-</content>
-
-			
-				<category term="Feeders and Spare Parts" />
-			
-			
-				<category term="Samsung" />
-			
-				<category term="Samsung Feeders and Spare Parts" />
-			
-
-			<published>2016-09-13T00:00:00+09:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/mirae/used-c-feeders/</id>
-			<title>USED C-Feeders (8mm ~ 56mm)</title>
-			<link href="https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/mirae/used-c-feeders/" rel="alternate" type="text/html" title="USED C-Feeders (8mm ~ 56mm)" />
-			<updated>2016-09-13T00:00:00+09:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Hankook FA</name>
-					
-					
-						<email>hankookfa@hankookfa.com</email>
-					
-					
-						<uri>http://hankookfa.com/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/mirae/used-c-feeders/">&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;medium-6 columns t30&quot;&gt;
-    &lt;img src=&quot;https://hankookfa.github.io/images/hankookfa/Mirae C Feeders/Release Type.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;/div&gt;&lt;!-- /.medium-8.columns --&gt;
-
-    &lt;div class=&quot;medium-6 columns t30&quot;&gt;
-      &lt;img src=&quot;https://hankookfa.github.io/images/hankookfa/Mirae C Feeders/Inner Circulation Type.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
-
-&lt;/div&gt;
-&lt;!-- /.row --&gt;
-
-&lt;p id=&quot;i18n&quot;&gt;
-&lt;/p&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;other-feeder-and-spare-parts&quot;&gt;Other Feeder and Spare Parts&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-    
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/samsung/used-sm-non-it-feeders/&quot;&gt;Feeders and Spare Parts &amp;middot; &lt;strong&gt;USED SM Non-IT Feeders (8mm ~ 56mm)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/samsung/used-sm-it-feeders/&quot;&gt;Feeders and Spare Parts &amp;middot; &lt;strong&gt;USED SM IT Feeders&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/mirae/used-c-feeders/&quot;&gt;Feeders and Spare Parts &amp;middot; &lt;strong&gt;USED C-Feeders (8mm ~ 56mm)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/mirae/nozzles/&quot;&gt;Feeders and Spare Parts &amp;middot; &lt;strong&gt;Nozzles&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://hankookfa.github.io/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-
-
-  
-&lt;/ul&gt;
-
-&lt;script&gt;
-  if (window.sessionStorage) {
-    switch ( sessionStorage.getItem(&#39;lang&#39;)) {
-      case &#39;cn&#39;: document.getElementById(&quot;i18n&quot;).innerHTML = &#39;如有需要的飞达，吸嘴，配件。确认品名，序列号，数量，发邮件，我们会第一时间回复您。&#39;
-        break;
-      case &#39;kr&#39;: document.getElementById(&quot;i18n&quot;).innerHTML = &#39;★ 필요하신 피더나 노즐, 부품이 있으시면 부품 이름, 번호, 수량 등을 이메일로 보내주세요. 확인 후 바로 연락 드리겠습니다 ☺ ★&#39;
-        break;
-      case &#39;en&#39;: document.getElementById(&quot;i18n&quot;).innerHTML = &#39;If you need any feeders, nozzles or spare parts, please email us a detailed request. We will get back to you as soon as possible.&#39;
-        break;
-      default:
-        break;
-    }
-  }
-&lt;/script&gt;
-
-</content>
-
-			
-				<category term="Feeders and Spare Parts" />
-			
-			
-				<category term="Mirae" />
-			
-				<category term="Mirae Feeders and Spare Parts" />
-			
-
-			<published>2016-09-13T00:00:00+09:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/mirae/nozzles/</id>
-			<title>Nozzles</title>
-			<link href="https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/mirae/nozzles/" rel="alternate" type="text/html" title="Nozzles" />
-			<updated>2016-09-13T00:00:00+09:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Hankook FA</name>
-					
-					
-						<email>hankookfa@hankookfa.com</email>
-					
-					
-						<uri>http://hankookfa.com/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/mirae/nozzles/">&lt;p id=&quot;i18n&quot;&gt;
-&lt;/p&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;other-feeder-and-spare-parts&quot;&gt;Other Feeder and Spare Parts&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-    
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/samsung/used-sm-non-it-feeders/&quot;&gt;Feeders and Spare Parts &amp;middot; &lt;strong&gt;USED SM Non-IT Feeders (8mm ~ 56mm)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/samsung/used-sm-it-feeders/&quot;&gt;Feeders and Spare Parts &amp;middot; &lt;strong&gt;USED SM IT Feeders&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/mirae/used-c-feeders/&quot;&gt;Feeders and Spare Parts &amp;middot; &lt;strong&gt;USED C-Feeders (8mm ~ 56mm)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/mirae/nozzles/&quot;&gt;Feeders and Spare Parts &amp;middot; &lt;strong&gt;Nozzles&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://hankookfa.github.io/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-
-
-  
-&lt;/ul&gt;
-
-&lt;script&gt;
-  if (window.sessionStorage) {
-    switch ( sessionStorage.getItem(&#39;lang&#39;)) {
-      case &#39;cn&#39;: document.getElementById(&quot;i18n&quot;).innerHTML = &#39;如有需要的飞达，吸嘴，配件。确认品名，序列号，数量，发邮件，我们会第一时间回复您。&#39;
-        break;
-      case &#39;kr&#39;: document.getElementById(&quot;i18n&quot;).innerHTML = &#39;★ 필요하신 피더나 노즐, 부품이 있으시면 부품 이름, 번호, 수량 등을 이메일로 보내주세요. 확인 후 바로 연락 드리겠습니다 ☺ ★&#39;
-        break;
-      case &#39;en&#39;: document.getElementById(&quot;i18n&quot;).innerHTML = &#39;If you need any feeders, nozzles or spare parts, please email us a detailed request. We will get back to you as soon as possible.&#39;
-        break;
-      default:
-        break;
-    }
-  }
-&lt;/script&gt;
-
-</content>
-
-			
-				<category term="Feeders and Spare Parts" />
-			
-			
-				<category term="Mirae" />
-			
-				<category term="Mirae Feeders and Spare Parts" />
-			
-
-			<published>2016-09-13T00:00:00+09:00</published>
-		</entry>
 	
 		<entry>
 			<id>https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/samsung/</id>
@@ -757,6 +430,269 @@
 			
 
 			<published>2016-09-13T00:00:00+09:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://hankookfa.github.io/package-sale/mx200(2011)-2-units-set/</id>
+			<title>MX200 (2011) - 2 units as a set</title>
+			<link href="https://hankookfa.github.io/package-sale/mx200(2011)-2-units-set/" rel="alternate" type="text/html" title="MX200 (2011) - 2 units as a set" />
+			<updated>2016-09-13T00:00:00+09:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Hankook FA</name>
+					
+					
+						<email>hankookfa@hankookfa.com</email>
+					
+					
+						<uri>http://hankookfa.com/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://hankookfa.github.io/package-sale/mx200(2011)-2-units-set/">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;With Feeders: 8mm – 40 pcs.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;With Nozzles – 20 pcs.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;other-pakage-sales&quot;&gt;Other Pakage Sales&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+    
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/package-sale/mx400l(2010)(2011)+mx400lp(2011)-3-units-set/&quot;&gt;&lt;strong&gt;MX400L (2010)(2011) + MX400LP (2011)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/package-sale/mx400(2010)(2012)-2-units-set/&quot;&gt;&lt;strong&gt;MX400 (2010)(2012) - 2 units as a set&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/package-sale/mx400(2010)(2012)+mx200l(2012)-3-units-set/&quot;&gt;&lt;strong&gt;MX400 (2010)(2012) + MX200L (2012) - 3 units as a set&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/package-sale/mx200l(2012)+mx200lp(2011)/&quot;&gt;&lt;strong&gt;MX200L (2012) + MX200LP (2011)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/package-sale/mx200(2011)-2-units-set/&quot;&gt;&lt;strong&gt;MX200 (2011) - 2 units as a set&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/package-sale/mx200(2011)+mx200lp(2011)/&quot;&gt;&lt;strong&gt;MX200 (2011) + MX200LP (2011)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/package-sale/mx110(2006)+mx110p(2006)/&quot;&gt;&lt;strong&gt;MX110 (2006) + MX110P (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://hankookfa.github.io/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="package-sale" />
+			
+			
+
+			<published>2016-09-13T00:00:00+09:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://hankookfa.github.io/package-sale/mx200(2011)+mx200lp(2011)/</id>
+			<title>MX200 (2011) + MX200LP (2011)</title>
+			<link href="https://hankookfa.github.io/package-sale/mx200(2011)+mx200lp(2011)/" rel="alternate" type="text/html" title="MX200 (2011) + MX200LP (2011)" />
+			<updated>2016-09-13T00:00:00+09:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Hankook FA</name>
+					
+					
+						<email>hankookfa@hankookfa.com</email>
+					
+					
+						<uri>http://hankookfa.com/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://hankookfa.github.io/package-sale/mx200(2011)+mx200lp(2011)/">&lt;ul&gt;
+  &lt;li&gt;With Feeders
+    &lt;ul&gt;
+      &lt;li&gt;8mm – 40 pcs.&lt;/li&gt;
+      &lt;li&gt;12mm – 3 pcs.&lt;/li&gt;
+      &lt;li&gt;16mm – 3 pcs.&lt;/li&gt;
+      &lt;li&gt;24mm – 2 pcs.&lt;/li&gt;
+      &lt;li&gt;32mm – 1 pc.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;With Nozzles
+    &lt;ul&gt;
+      &lt;li&gt;20 pcs.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;other-pakage-sales&quot;&gt;Other Pakage Sales&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+    
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/package-sale/mx400l(2010)(2011)+mx400lp(2011)-3-units-set/&quot;&gt;&lt;strong&gt;MX400L (2010)(2011) + MX400LP (2011)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/package-sale/mx400(2010)(2012)-2-units-set/&quot;&gt;&lt;strong&gt;MX400 (2010)(2012) - 2 units as a set&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/package-sale/mx400(2010)(2012)+mx200l(2012)-3-units-set/&quot;&gt;&lt;strong&gt;MX400 (2010)(2012) + MX200L (2012) - 3 units as a set&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/package-sale/mx200l(2012)+mx200lp(2011)/&quot;&gt;&lt;strong&gt;MX200L (2012) + MX200LP (2011)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/package-sale/mx200(2011)-2-units-set/&quot;&gt;&lt;strong&gt;MX200 (2011) - 2 units as a set&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/package-sale/mx200(2011)+mx200lp(2011)/&quot;&gt;&lt;strong&gt;MX200 (2011) + MX200LP (2011)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/package-sale/mx110(2006)+mx110p(2006)/&quot;&gt;&lt;strong&gt;MX110 (2006) + MX110P (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://hankookfa.github.io/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="package-sale" />
+			
+			
+
+			<published>2016-09-13T00:00:00+09:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://hankookfa.github.io/package-sale/mx110(2006)+mx110p(2006)/</id>
+			<title>MX110 (2006) + MX110P (2006)</title>
+			<link href="https://hankookfa.github.io/package-sale/mx110(2006)+mx110p(2006)/" rel="alternate" type="text/html" title="MX110 (2006) + MX110P (2006)" />
+			<updated>2016-09-13T00:00:00+09:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Hankook FA</name>
+					
+					
+						<email>hankookfa@hankookfa.com</email>
+					
+					
+						<uri>http://hankookfa.com/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://hankookfa.github.io/package-sale/mx110(2006)+mx110p(2006)/">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;With Feeders: 8mm – 40 pcs.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;With Nozzles - 20 pcs.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;other-pakage-sales&quot;&gt;Other Pakage Sales&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+    
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/package-sale/mx400l(2010)(2011)+mx400lp(2011)-3-units-set/&quot;&gt;&lt;strong&gt;MX400L (2010)(2011) + MX400LP (2011)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/package-sale/mx400(2010)(2012)-2-units-set/&quot;&gt;&lt;strong&gt;MX400 (2010)(2012) - 2 units as a set&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/package-sale/mx400(2010)(2012)+mx200l(2012)-3-units-set/&quot;&gt;&lt;strong&gt;MX400 (2010)(2012) + MX200L (2012) - 3 units as a set&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/package-sale/mx200l(2012)+mx200lp(2011)/&quot;&gt;&lt;strong&gt;MX200L (2012) + MX200LP (2011)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/package-sale/mx200(2011)-2-units-set/&quot;&gt;&lt;strong&gt;MX200 (2011) - 2 units as a set&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/package-sale/mx200(2011)+mx200lp(2011)/&quot;&gt;&lt;strong&gt;MX200 (2011) + MX200LP (2011)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/package-sale/mx110(2006)+mx110p(2006)/&quot;&gt;&lt;strong&gt;MX110 (2006) + MX110P (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://hankookfa.github.io/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="package-sale" />
+			
+			
+
+			<published>2016-09-13T00:00:00+09:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://hankookfa.github.io/smt-equipment/x-ray-equipment/agilent-technologies/medalist-x6000-2008/</id>
+			<title>Medalist x6000 (2008)</title>
+			<link href="https://hankookfa.github.io/smt-equipment/x-ray-equipment/agilent-technologies/medalist-x6000-2008/" rel="alternate" type="text/html" title="Medalist x6000 (2008)" />
+			<updated>2016-08-31T00:00:00+09:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Hankook FA</name>
+					
+					
+						<email>hankookfa@hankookfa.com</email>
+					
+					
+						<uri>http://hankookfa.com/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://hankookfa.github.io/smt-equipment/x-ray-equipment/agilent-technologies/medalist-x6000-2008/">&lt;ul&gt;
+  &lt;li&gt;Vintage: 2008&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;other-x-ray-equipment&quot;&gt;Other X-Ray Equipment&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav t60&quot;&gt;
+
+  
+    
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/x-ray-equipment/agilent-technologies/medalist-x6000-2008/&quot;&gt;X-Ray Equipment &amp;middot; &lt;strong&gt;Medalist x6000 (2008)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://hankookfa.github.io/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="x-ray-equipment" />
+			
+			
+				<category term="Agilent Technologies" />
+			
+				<category term="Agilent Technologies X-Ray Equipment" />
+			
+
+			<published>2016-08-31T00:00:00+09:00</published>
 		</entry>
 	
 </feed>
