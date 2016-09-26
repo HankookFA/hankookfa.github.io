@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://hankookfa.github.io/</id>
 	<title>Hankook FA</title>
-	<updated>2016-09-25T23:31:09+09:00</updated>
+	<updated>2016-09-26T13:14:41+09:00</updated>
 
 	<subtitle>검색엔진에 잘 검색되기 위한 150자 내의 설명.</subtitle>
 
@@ -48,11 +48,11 @@
 			<summary></summary>
 			<content type="html" xml:base="https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/samsung/used-sm-non-it-feeders/">&lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;medium-6 columns t30&quot;&gt;
-    &lt;img src=&quot;https://hankookfa.github.io/images/hankookfa/SM Non-IT Feeders/SM Non-IT.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img src=&quot;https://hankookfa.github.io/images/hankookfa/SM Non-IT Feeders/SM_Non-IT.jpg&quot; alt=&quot;&quot; /&gt;
     &lt;/div&gt;&lt;!-- /.medium-8.columns --&gt;
 
     &lt;div class=&quot;medium-6 columns t30&quot;&gt;
-      &lt;img src=&quot;https://hankookfa.github.io/images/hankookfa/SM Non-IT Feeders/SM normal type pin.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;img src=&quot;https://hankookfa.github.io/images/hankookfa/SM Non-IT Feeders/SM_normal_type_pin.jpg&quot; alt=&quot;&quot; /&gt;
     &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
 
 &lt;/div&gt;
