@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://hankookfa.github.io/</id>
 	<title>Hankook FA</title>
-	<updated>2016-12-11T18:38:00+09:00</updated>
+	<updated>2016-12-13T17:02:43+09:00</updated>
 
 	<subtitle>검색엔진에 잘 검색되기 위한 150자 내의 설명.</subtitle>
 
@@ -24,6 +24,58 @@
 
 	<generator uri="http://jekyllrb.com" version="3.0.2">Jekyll</generator>
 
+	
+		<entry>
+			<id>https://hankookfa.github.io/smt-equipment/reflow-ovens/tsm/srf70i92-2010/</id>
+			<title>SRF 70i92 (2010) - 3 units</title>
+			<link href="https://hankookfa.github.io/smt-equipment/reflow-ovens/tsm/srf70i92-2010/" rel="alternate" type="text/html" title="SRF 70i92 (2010) - 3 units" />
+			<updated>2016-12-11T00:00:00+09:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Hankook FA</name>
+					
+					
+						<email>hankookfa@hankookfa.com</email>
+					
+					
+						<uri>http://hankookfa.com/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://hankookfa.github.io/smt-equipment/reflow-ovens/tsm/srf70i92-2010/">&lt;h3 class=&quot;t60&quot; id=&quot;other-reflow-ovens&quot;&gt;Other Reflow Ovens&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+    
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/reflow-ovens/tsm/srf70i92-2010/&quot;&gt;Reflow Ovens &amp;middot; &lt;strong&gt;SRF 70i92 (2010) - 3 units&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/reflow-ovens/heller/1809mk3-2010/&quot;&gt;Reflow Ovens &amp;middot; &lt;strong&gt;1809MKIII (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://hankookfa.github.io/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="reflow-ovens" />
+			
+			
+				<category term="TSM" />
+			
+				<category term="TSM Reflow Ovens" />
+			
+
+			<published>2016-12-11T00:00:00+09:00</published>
+		</entry>
 	
 		<entry>
 			<id>https://hankookfa.github.io/smt-equipment/reflow-ovens/heller/1809mk3-2010/</id>
@@ -60,6 +112,8 @@
 
   
     
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/reflow-ovens/tsm/srf70i92-2010/&quot;&gt;Reflow Ovens &amp;middot; &lt;strong&gt;SRF 70i92 (2010) - 3 units&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/reflow-ovens/heller/1809mk3-2010/&quot;&gt;Reflow Ovens &amp;middot; &lt;strong&gt;1809MKIII (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
@@ -104,12 +158,29 @@
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="https://hankookfa.github.io/package-sale/mx400l-3-units+mx400lp-1-unit-set/">&lt;p&gt;1) MX400L (2011) with a shuttle on the left side/no shuttle on the right side – 1 unit
-2) MX400LP (2011) with a shuttle on the right side/no shuttle on the left side – 1 unit
-3) MX400L (2010) with a shuttle on both sides – 1 unit
-4) MX400L (2011) with a shuttle on the right side/no shuttle on the left side – 1 unit
-- Along with 8mm C-feeder – 40 pcs.
-- One extra shuttle&lt;/p&gt;
+			<content type="html" xml:base="https://hankookfa.github.io/package-sale/mx400l-3-units+mx400lp-1-unit-set/">&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;MX400L (2011) with a shuttle on the left side/no shuttle on the right side – 1 unit&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;MX400LP (2011) with a shuttle on the right side/no shuttle on the left side – 1 unit&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;MX400L (2010) with a shuttle on both sides – 1 unit&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;MX400L (2011) with a shuttle on the right side/no shuttle on the left side – 1 unit&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Along with 8mm C-feeder – 40 pcs.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;One extra shuttle&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 class=&quot;t60&quot; id=&quot;other-package-sales&quot;&gt;Other Package Sales&lt;/h3&gt;
 
@@ -598,81 +669,6 @@
 				<category term="Samsung" />
 			
 				<category term="Samsung Chip Mounters" />
-			
-
-			<published>2016-10-01T00:00:00+09:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mps1020qpc-2004/</id>
-			<title>MPS1020QPc (2004)</title>
-			<link href="https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mps1020qpc-2004/" rel="alternate" type="text/html" title="MPS1020QPc (2004)" />
-			<updated>2016-10-01T00:00:00+09:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Hankook FA</name>
-					
-					
-						<email>hankookfa@hankookfa.com</email>
-					
-					
-						<uri>http://hankookfa.com/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mps1020qpc-2004/">&lt;ul&gt;
-  &lt;li&gt;Vintage: 2004&lt;/li&gt;
-  &lt;li&gt;Flow Direction: Left to Right (Front Rail Fixed)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;other-chip-mounters&quot;&gt;Other Chip Mounters&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-    
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/sm411-2007/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;SM411 (2007)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mps1020qpc-2004/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;MPS1020QPc (2004)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/cp45fv-neo-2006/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;CP45FV Neo (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/cp45fv-neo-2005/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;CP45FV Neo (2005)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/cp45fv-2002/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;CP45FV (2002)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/cp45f-2002/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;CP45F (2002)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx400-2012/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;MX400 (2012)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx400-2010/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;MX400 (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/STF-100N-2010/&quot;&gt;Chip Mounters Tray &amp;middot; &lt;strong&gt;STF-100N (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/STF-100N-2007/&quot;&gt;Chip Mounters Tray &amp;middot; &lt;strong&gt;STF-100N (2007)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/STF-100D-2010/&quot;&gt;Chip Mounters Tray &amp;middot; &lt;strong&gt;STF-100D (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://hankookfa.github.io/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-
-
-  
-&lt;/ul&gt;
-
-</content>
-
-			
-				<category term="chip-mounters" />
-			
-			
-				<category term="Mirae" />
-			
-				<category term="Mirae Chip Mounters" />
 			
 
 			<published>2016-10-01T00:00:00+09:00</published>
