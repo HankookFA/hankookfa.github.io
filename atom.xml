@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://hankookfa.github.io/</id>
 	<title>Hankook FA</title>
-	<updated>2017-02-16T17:49:12+09:00</updated>
+	<updated>2017-02-17T11:15:16+09:00</updated>
 
 	<subtitle>검색엔진에 잘 검색되기 위한 150자 내의 설명.</subtitle>
 
@@ -26,10 +26,10 @@
 
 	
 		<entry>
-			<id>https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/mirae/x-feeders/</id>
-			<title>USED X-Feeders (8mm)</title>
-			<link href="https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/mirae/x-feeders/" rel="alternate" type="text/html" title="USED X-Feeders (8mm)" />
-			<updated>2017-02-16T00:00:00+09:00</updated>
+			<id>https://hankookfa.github.io/smt-equipment/screen-printing-equipment/yamaha/yvp-xg-2007/</id>
+			<title>YVP-Xg (2007)</title>
+			<link href="https://hankookfa.github.io/smt-equipment/screen-printing-equipment/yamaha/yvp-xg-2007/" rel="alternate" type="text/html" title="YVP-Xg (2007)" />
+			<updated>2017-02-17T00:00:00+09:00</updated>
 
 			
 				
@@ -46,102 +46,8 @@
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/mirae/x-feeders/">&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;medium-6 columns t30&quot;&gt;
-    &lt;img src=&quot;https://hankookfa.github.io/images/hankookfa/Mirae C Feeders/Release Type.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;/div&gt;&lt;!-- /.medium-8.columns --&gt;
-
-    &lt;div class=&quot;medium-6 columns t30&quot;&gt;
-      &lt;img src=&quot;https://hankookfa.github.io/images/hankookfa/Mirae C Feeders/Inner Circulation Type.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
-
-&lt;/div&gt;
-&lt;!-- /.row --&gt;
-
-&lt;p id=&quot;i18n&quot;&gt;
-&lt;/p&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;other-feeder-and-spare-parts&quot;&gt;Other Feeder and Spare Parts&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-    
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/mirae/x-feeders/&quot;&gt;Feeders and Spare Parts &amp;middot; &lt;strong&gt;USED X-Feeders (8mm)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/samsung/used-sm-non-it-feeders/&quot;&gt;Feeders and Spare Parts &amp;middot; &lt;strong&gt;USED SM Non-IT Feeders (8mm ~ 56mm)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/samsung/used-sm-it-feeders/&quot;&gt;Feeders and Spare Parts &amp;middot; &lt;strong&gt;USED SM IT Feeders&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/mirae/used-c-feeders/&quot;&gt;Feeders and Spare Parts &amp;middot; &lt;strong&gt;USED C-Feeders (8mm ~ 56mm)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/feeders-and-spare-parts/mirae/nozzles/&quot;&gt;Feeders and Spare Parts &amp;middot; &lt;strong&gt;Nozzles&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://hankookfa.github.io/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-
-
-  
-&lt;/ul&gt;
-
-&lt;script&gt;
-  if (window.sessionStorage) {
-    switch ( sessionStorage.getItem(&#39;lang&#39;)) {
-      case &#39;cn&#39;: document.getElementById(&quot;i18n&quot;).innerHTML = &#39;如有需要的飞达，吸嘴，配件。确认品名，序列号，数量，发邮件，我们会第一时间回复您。&#39;
-        break;
-      case &#39;kr&#39;: document.getElementById(&quot;i18n&quot;).innerHTML = &#39;★ 필요하신 피더나 노즐, 부품이 있으시면 부품 이름, 번호, 수량 등을 이메일로 보내주세요. 확인 후 바로 연락 드리겠습니다 ☺ ★&#39;
-        break;
-      case &#39;en&#39;: document.getElementById(&quot;i18n&quot;).innerHTML = &#39;If you need any feeders, nozzles or spare parts, please email us a detailed request. We will get back to you as soon as possible.&#39;
-        break;
-      default:
-        break;
-    }
-  }
-&lt;/script&gt;
-
-</content>
-
-			
-				<category term="Feeders and Spare Parts" />
-			
-			
-				<category term="Mirae" />
-			
-				<category term="Mirae Feeders and Spare Parts" />
-			
-
-			<published>2017-02-16T00:00:00+09:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx400lx-2011/</id>
-			<title>MX400LX (2011)</title>
-			<link href="https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx400lx-2011/" rel="alternate" type="text/html" title="MX400LX (2011)" />
-			<updated>2017-02-16T00:00:00+09:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Hankook FA</name>
-					
-					
-						<email>hankookfa@hankookfa.com</email>
-					
-					
-						<uri>http://hankookfa.com/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx400lx-2011/">&lt;ul&gt;
-  &lt;li&gt;Vintage: 2011&lt;/li&gt;
-  &lt;li&gt;Flow Direction: Left to Right (Front Rail Fixed)&lt;/li&gt;
-  &lt;li&gt;With a tray / Without shuttles&lt;/li&gt;
-  &lt;li&gt;CPH: 30,000&lt;/li&gt;
-  &lt;li&gt;Head: 5 Module + 1 Precision&lt;/li&gt;
-  &lt;li&gt;PCB Size: 680 x 460 x 5.0mm&lt;/li&gt;
-  &lt;li&gt;Dimensions: 1,450 x 1,900 x 1,500mm&lt;/li&gt;
+			<content type="html" xml:base="https://hankookfa.github.io/smt-equipment/screen-printing-equipment/yamaha/yvp-xg-2007/">&lt;ul&gt;
+  &lt;li&gt;Vintage: 2007&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 class=&quot;t60&quot; id=&quot;other-chip-mounters&quot;&gt;Other Chip Mounters&lt;/h3&gt;
@@ -151,591 +57,17 @@
   
     
     
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx400lx-2011/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;MX400LX (2011)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/yamaha/yvp-xg-2007/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;YVP-Xg (2007)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx400l-2010/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;MX400L (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/yamaha/yvp-xg-2006/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;YVP-Xg (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx400-2013/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;MX400 (2013)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60p-l-2006/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP60P-L (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx200-2010/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;MX200 (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60p-l-2005/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP60P-L (2005)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mps1025c-2004/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;MPS1025C (2004)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60d-mu-2008/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP60D-MU (2008)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/sm411-2007/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;SM411 (2007)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/cp45fv-neo-2006/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;CP45FV Neo (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/cp45fv-neo-2005/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;CP45FV Neo (2005)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/cp45fv-2002/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;CP45FV (2002)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/cp45f-2002/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;CP45F (2002)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/STF-100N-2010/&quot;&gt;Chip Mounters Tray &amp;middot; &lt;strong&gt;STF-100N (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/STF-100N-2007/&quot;&gt;Chip Mounters Tray &amp;middot; &lt;strong&gt;STF-100N (2007)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://hankookfa.github.io/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-
-
-  
-&lt;/ul&gt;
-
-</content>
-
-			
-				<category term="chip-mounters" />
-			
-			
-				<category term="Mirae" />
-			
-				<category term="Mirae Chip Mounters" />
-			
-
-			<published>2017-02-16T00:00:00+09:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx400l-2010/</id>
-			<title>MX400L (2010)</title>
-			<link href="https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx400l-2010/" rel="alternate" type="text/html" title="MX400L (2010)" />
-			<updated>2017-02-16T00:00:00+09:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Hankook FA</name>
-					
-					
-						<email>hankookfa@hankookfa.com</email>
-					
-					
-						<uri>http://hankookfa.com/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx400l-2010/">&lt;ul&gt;
-  &lt;li&gt;Vintage: 2010&lt;/li&gt;
-  &lt;li&gt;Flow Direction: Left to Right (Front Rail Fixed)&lt;/li&gt;
-  &lt;li&gt;With a shuttle on both sides&lt;/li&gt;
-  &lt;li&gt;CPH: 42,000&lt;/li&gt;
-  &lt;li&gt;Head: 6 Module + 6 Module&lt;/li&gt;
-  &lt;li&gt;PCB Size: 680 x 460 x 5.0mm&lt;/li&gt;
-  &lt;li&gt;Dimensions: 1,450 x 1,900 x 1,500mm&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;other-chip-mounters&quot;&gt;Other Chip Mounters&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-    
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx400lx-2011/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;MX400LX (2011)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx400l-2010/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;MX400L (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx400-2013/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;MX400 (2013)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx200-2010/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;MX200 (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mps1025c-2004/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;MPS1025C (2004)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/sm411-2007/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;SM411 (2007)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/cp45fv-neo-2006/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;CP45FV Neo (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/cp45fv-neo-2005/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;CP45FV Neo (2005)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/cp45fv-2002/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;CP45FV (2002)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/cp45f-2002/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;CP45F (2002)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/STF-100N-2010/&quot;&gt;Chip Mounters Tray &amp;middot; &lt;strong&gt;STF-100N (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/STF-100N-2007/&quot;&gt;Chip Mounters Tray &amp;middot; &lt;strong&gt;STF-100N (2007)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://hankookfa.github.io/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-
-
-  
-&lt;/ul&gt;
-
-</content>
-
-			
-				<category term="chip-mounters" />
-			
-			
-				<category term="Mirae" />
-			
-				<category term="Mirae Chip Mounters" />
-			
-
-			<published>2017-02-16T00:00:00+09:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx400-2013/</id>
-			<title>MX400 (2013)</title>
-			<link href="https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx400-2013/" rel="alternate" type="text/html" title="MX400 (2013)" />
-			<updated>2017-02-16T00:00:00+09:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Hankook FA</name>
-					
-					
-						<email>hankookfa@hankookfa.com</email>
-					
-					
-						<uri>http://hankookfa.com/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx400-2013/">&lt;ul&gt;
-  &lt;li&gt;6 units&lt;/li&gt;
-  &lt;li&gt;Vintage: 2013&lt;/li&gt;
-  &lt;li&gt;Flow Direction: Left to Right (Front Rail Fixed)&lt;/li&gt;
-  &lt;li&gt;With a shuttle on both sides&lt;/li&gt;
-  &lt;li&gt;CPH: 42,000&lt;/li&gt;
-  &lt;li&gt;Head: 6 Module + 6 Module&lt;/li&gt;
-  &lt;li&gt;PCB Size: 410 x 460 x 5.0mm&lt;/li&gt;
-  &lt;li&gt;Dimensions: 1,200 x 1,900 x 1,500mm&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;other-chip-mounters&quot;&gt;Other Chip Mounters&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-    
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx400lx-2011/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;MX400LX (2011)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx400l-2010/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;MX400L (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx400-2013/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;MX400 (2013)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx200-2010/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;MX200 (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mps1025c-2004/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;MPS1025C (2004)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/sm411-2007/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;SM411 (2007)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/cp45fv-neo-2006/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;CP45FV Neo (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/cp45fv-neo-2005/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;CP45FV Neo (2005)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/cp45fv-2002/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;CP45FV (2002)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/cp45f-2002/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;CP45F (2002)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/STF-100N-2010/&quot;&gt;Chip Mounters Tray &amp;middot; &lt;strong&gt;STF-100N (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/STF-100N-2007/&quot;&gt;Chip Mounters Tray &amp;middot; &lt;strong&gt;STF-100N (2007)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://hankookfa.github.io/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-
-
-  
-&lt;/ul&gt;
-
-</content>
-
-			
-				<category term="chip-mounters" />
-			
-			
-				<category term="Mirae" />
-			
-				<category term="Mirae Chip Mounters" />
-			
-
-			<published>2017-02-16T00:00:00+09:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx200-2010/</id>
-			<title>MX200 (2010)</title>
-			<link href="https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx200-2010/" rel="alternate" type="text/html" title="MX200 (2010)" />
-			<updated>2017-02-16T00:00:00+09:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Hankook FA</name>
-					
-					
-						<email>hankookfa@hankookfa.com</email>
-					
-					
-						<uri>http://hankookfa.com/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx200-2010/">&lt;ul&gt;
-  &lt;li&gt;Vintage: 2010&lt;/li&gt;
-  &lt;li&gt;Flow Direction: Left to Right (Front Rail Fixed)&lt;/li&gt;
-  &lt;li&gt;CPH: 21,000&lt;/li&gt;
-  &lt;li&gt;Head: 6 Module&lt;/li&gt;
-  &lt;li&gt;PCB Size: 410 x 460 x 5.0mm&lt;/li&gt;
-  &lt;li&gt;Dimensions: 1,200 x 1,900 x 1,500mm&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;other-chip-mounters&quot;&gt;Other Chip Mounters&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-    
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx400lx-2011/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;MX400LX (2011)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx400l-2010/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;MX400L (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx400-2013/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;MX400 (2013)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx200-2010/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;MX200 (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mps1025c-2004/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;MPS1025C (2004)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/sm411-2007/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;SM411 (2007)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/cp45fv-neo-2006/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;CP45FV Neo (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/cp45fv-neo-2005/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;CP45FV Neo (2005)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/cp45fv-2002/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;CP45FV (2002)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/cp45f-2002/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;CP45F (2002)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/STF-100N-2010/&quot;&gt;Chip Mounters Tray &amp;middot; &lt;strong&gt;STF-100N (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/STF-100N-2007/&quot;&gt;Chip Mounters Tray &amp;middot; &lt;strong&gt;STF-100N (2007)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://hankookfa.github.io/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-
-
-  
-&lt;/ul&gt;
-
-</content>
-
-			
-				<category term="chip-mounters" />
-			
-			
-				<category term="Mirae" />
-			
-				<category term="Mirae Chip Mounters" />
-			
-
-			<published>2017-02-16T00:00:00+09:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mps1025c-2004/</id>
-			<title>MPS1025C (2004)</title>
-			<link href="https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mps1025c-2004/" rel="alternate" type="text/html" title="MPS1025C (2004)" />
-			<updated>2017-02-16T00:00:00+09:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Hankook FA</name>
-					
-					
-						<email>hankookfa@hankookfa.com</email>
-					
-					
-						<uri>http://hankookfa.com/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mps1025c-2004/">&lt;ul&gt;
-  &lt;li&gt;Vintage: 2004&lt;/li&gt;
-  &lt;li&gt;Flow Direction: Left to Right (Front Rail Fixed)&lt;/li&gt;
-  &lt;li&gt;With C-Feeder Bases&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;other-chip-mounters&quot;&gt;Other Chip Mounters&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-    
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx400lx-2011/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;MX400LX (2011)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx400l-2010/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;MX400L (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx400-2013/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;MX400 (2013)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mx200-2010/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;MX200 (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/mirae/mps1025c-2004/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;MPS1025C (2004)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/sm411-2007/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;SM411 (2007)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/cp45fv-neo-2006/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;CP45FV Neo (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/cp45fv-neo-2005/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;CP45FV Neo (2005)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/cp45fv-2002/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;CP45FV (2002)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/cp45f-2002/&quot;&gt;Chip Mounters &amp;middot; &lt;strong&gt;CP45F (2002)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/STF-100N-2010/&quot;&gt;Chip Mounters Tray &amp;middot; &lt;strong&gt;STF-100N (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/chip-mounters/samsung/STF-100N-2007/&quot;&gt;Chip Mounters Tray &amp;middot; &lt;strong&gt;STF-100N (2007)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://hankookfa.github.io/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-
-
-  
-&lt;/ul&gt;
-
-</content>
-
-			
-				<category term="chip-mounters" />
-			
-			
-				<category term="Mirae" />
-			
-				<category term="Mirae Chip Mounters" />
-			
-
-			<published>2017-02-16T00:00:00+09:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://hankookfa.github.io/smt-equipment/reflow-ovens/tsm/srf70i92-2010/</id>
-			<title>SRF 70i92 (2010) - 3 units</title>
-			<link href="https://hankookfa.github.io/smt-equipment/reflow-ovens/tsm/srf70i92-2010/" rel="alternate" type="text/html" title="SRF 70i92 (2010) - 3 units" />
-			<updated>2016-12-11T00:00:00+09:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Hankook FA</name>
-					
-					
-						<email>hankookfa@hankookfa.com</email>
-					
-					
-						<uri>http://hankookfa.com/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="https://hankookfa.github.io/smt-equipment/reflow-ovens/tsm/srf70i92-2010/">&lt;h3 class=&quot;t60&quot; id=&quot;other-reflow-ovens&quot;&gt;Other Reflow Ovens&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-    
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/reflow-ovens/tsm/srf70i92-2010/&quot;&gt;Reflow Ovens &amp;middot; &lt;strong&gt;SRF 70i92 (2010) - 3 units&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/reflow-ovens/heller/1809mk3-2010/&quot;&gt;Reflow Ovens &amp;middot; &lt;strong&gt;1809MKIII (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://hankookfa.github.io/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-
-
-  
-&lt;/ul&gt;
-
-</content>
-
-			
-				<category term="reflow-ovens" />
-			
-			
-				<category term="TSM" />
-			
-				<category term="TSM Reflow Ovens" />
-			
-
-			<published>2016-12-11T00:00:00+09:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://hankookfa.github.io/smt-equipment/reflow-ovens/heller/1809mk3-2010/</id>
-			<title>1809MKIII (2010)</title>
-			<link href="https://hankookfa.github.io/smt-equipment/reflow-ovens/heller/1809mk3-2010/" rel="alternate" type="text/html" title="1809MKIII (2010)" />
-			<updated>2016-12-11T00:00:00+09:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Hankook FA</name>
-					
-					
-						<email>hankookfa@hankookfa.com</email>
-					
-					
-						<uri>http://hankookfa.com/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="https://hankookfa.github.io/smt-equipment/reflow-ovens/heller/1809mk3-2010/">&lt;ul&gt;
-  &lt;li&gt;Vintage: 2010&lt;/li&gt;
-  &lt;li&gt;9 Heat Zones Both Sides&lt;/li&gt;
-  &lt;li&gt;N2 Ready&lt;/li&gt;
-  &lt;li&gt;Chain &amp;amp; Mesh Type&lt;/li&gt;
-  &lt;li&gt;Flow direction: Right to Left&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;other-reflow-ovens&quot;&gt;Other Reflow Ovens&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-    
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/reflow-ovens/tsm/srf70i92-2010/&quot;&gt;Reflow Ovens &amp;middot; &lt;strong&gt;SRF 70i92 (2010) - 3 units&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/reflow-ovens/heller/1809mk3-2010/&quot;&gt;Reflow Ovens &amp;middot; &lt;strong&gt;1809MKIII (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://hankookfa.github.io/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-
-
-  
-&lt;/ul&gt;
-
-</content>
-
-			
-				<category term="reflow-ovens" />
-			
-			
-				<category term="Heller" />
-			
-				<category term="Heller Reflow Ovens" />
-			
-
-			<published>2016-12-11T00:00:00+09:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://hankookfa.github.io/package-sale/mx400l-3-units+mx400lp-1-unit-set/</id>
-			<title>MX400L – 3 units &amp; MX400LP – 1 unit</title>
-			<link href="https://hankookfa.github.io/package-sale/mx400l-3-units+mx400lp-1-unit-set/" rel="alternate" type="text/html" title="MX400L – 3 units &amp; MX400LP – 1 unit" />
-			<updated>2016-12-11T00:00:00+09:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Hankook FA</name>
-					
-					
-						<email>hankookfa@hankookfa.com</email>
-					
-					
-						<uri>http://hankookfa.com/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="https://hankookfa.github.io/package-sale/mx400l-3-units+mx400lp-1-unit-set/">&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;MX400L (2011) with a shuttle on the left side/no shuttle on the right side – 1 unit&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;MX400LP (2011) with a shuttle on the right side/no shuttle on the left side – 1 unit&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;MX400L (2010) with a shuttle on both sides – 1 unit&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;MX400L (2011) with a shuttle on the right side/no shuttle on the left side – 1 unit&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Along with 8mm C-feeder – 40 pcs.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;One extra shuttle&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;other-package-sales&quot;&gt;Other Package Sales&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-    
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/package-sale/mx400l-3-units+mx400lp-1-unit-set/&quot;&gt;&lt;strong&gt;MX400L – 3 units &amp;amp; MX400LP – 1 unit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/package-sale/mx400(2010)(2012)-2-units-set/&quot;&gt;&lt;strong&gt;MX400 (2010)(2012) - 2 units as a set&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/package-sale/mx110(2006)+mx110p(2006)/&quot;&gt;&lt;strong&gt;MX110 (2006) + MX110P (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://hankookfa.github.io/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-
-
-  
-&lt;/ul&gt;
-
-</content>
-
-			
-				<category term="package-sale" />
-			
-			
-
-			<published>2016-12-11T00:00:00+09:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SP450V-2006/</id>
-			<title>SP450V (2006)</title>
-			<link href="https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SP450V-2006/" rel="alternate" type="text/html" title="SP450V (2006)" />
-			<updated>2016-10-01T00:00:00+09:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Hankook FA</name>
-					
-					
-						<email>hankookfa@hankookfa.com</email>
-					
-					
-						<uri>http://hankookfa.com/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SP450V-2006/">&lt;ul&gt;
-  &lt;li&gt;Vintage: 2006&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;other-chip-mounters&quot;&gt;Other Chip Mounters&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/dek/horizon02i-2005/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;Horizon 02i (2005)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SP450V-2006/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP450V (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
@@ -761,12 +93,584 @@
 				<category term="screen-printing-equipment" />
 			
 			
-				<category term="Samsung" />
+				<category term="Yamaha" />
 			
-				<category term="Samsung Screen Printing Equipment" />
+				<category term="Yamaha Screen Printing Equipment" />
 			
 
-			<published>2016-10-01T00:00:00+09:00</published>
+			<published>2017-02-17T00:00:00+09:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://hankookfa.github.io/smt-equipment/screen-printing-equipment/yamaha/yvp-xg-2006/</id>
+			<title>YVP-Xg (2006)</title>
+			<link href="https://hankookfa.github.io/smt-equipment/screen-printing-equipment/yamaha/yvp-xg-2006/" rel="alternate" type="text/html" title="YVP-Xg (2006)" />
+			<updated>2017-02-17T00:00:00+09:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Hankook FA</name>
+					
+					
+						<email>hankookfa@hankookfa.com</email>
+					
+					
+						<uri>http://hankookfa.com/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://hankookfa.github.io/smt-equipment/screen-printing-equipment/yamaha/yvp-xg-2006/">&lt;ul&gt;
+  &lt;li&gt;Vintage: 2006&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;other-chip-mounters&quot;&gt;Other Chip Mounters&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+    
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/yamaha/yvp-xg-2007/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;YVP-Xg (2007)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/yamaha/yvp-xg-2006/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;YVP-Xg (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60p-l-2006/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP60P-L (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60p-l-2005/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP60P-L (2005)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60d-mu-2008/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP60D-MU (2008)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/dek/horizon02i-2005/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;Horizon 02i (2005)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SP450V-2006/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP450V (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SP450V-2005/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP450V (2005)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SP450V-2004/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP450V (2004)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SMP400-2010/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SMP400 (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SMP300-2007/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SMP300 (2007)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SMP200-2010/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SMP200 (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://hankookfa.github.io/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="screen-printing-equipment" />
+			
+			
+				<category term="Yamaha" />
+			
+				<category term="Yamaha Screen Printing Equipment" />
+			
+
+			<published>2017-02-17T00:00:00+09:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60p-l-2006/</id>
+			<title>SP60P-L (2006)</title>
+			<link href="https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60p-l-2006/" rel="alternate" type="text/html" title="SP60P-L (2006)" />
+			<updated>2017-02-17T00:00:00+09:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Hankook FA</name>
+					
+					
+						<email>hankookfa@hankookfa.com</email>
+					
+					
+						<uri>http://hankookfa.com/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60p-l-2006/">&lt;ul&gt;
+  &lt;li&gt;Vintage: 2006&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;other-chip-mounters&quot;&gt;Other Chip Mounters&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+    
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/yamaha/yvp-xg-2007/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;YVP-Xg (2007)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/yamaha/yvp-xg-2006/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;YVP-Xg (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60p-l-2006/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP60P-L (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60p-l-2005/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP60P-L (2005)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60d-mu-2008/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP60D-MU (2008)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/dek/horizon02i-2005/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;Horizon 02i (2005)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SP450V-2006/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP450V (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SP450V-2005/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP450V (2005)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SP450V-2004/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP450V (2004)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SMP400-2010/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SMP400 (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SMP300-2007/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SMP300 (2007)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SMP200-2010/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SMP200 (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://hankookfa.github.io/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="screen-printing-equipment" />
+			
+			
+				<category term="Panasonic" />
+			
+				<category term="Panasonic Screen Printing Equipment" />
+			
+
+			<published>2017-02-17T00:00:00+09:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60p-l-2005/</id>
+			<title>SP60P-L (2005)</title>
+			<link href="https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60p-l-2005/" rel="alternate" type="text/html" title="SP60P-L (2005)" />
+			<updated>2017-02-17T00:00:00+09:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Hankook FA</name>
+					
+					
+						<email>hankookfa@hankookfa.com</email>
+					
+					
+						<uri>http://hankookfa.com/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60p-l-2005/">&lt;ul&gt;
+  &lt;li&gt;Vintage: 2005&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;other-chip-mounters&quot;&gt;Other Chip Mounters&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+    
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/yamaha/yvp-xg-2007/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;YVP-Xg (2007)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/yamaha/yvp-xg-2006/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;YVP-Xg (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60p-l-2006/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP60P-L (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60p-l-2005/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP60P-L (2005)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60d-mu-2008/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP60D-MU (2008)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/dek/horizon02i-2005/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;Horizon 02i (2005)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SP450V-2006/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP450V (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SP450V-2005/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP450V (2005)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SP450V-2004/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP450V (2004)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SMP400-2010/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SMP400 (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SMP300-2007/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SMP300 (2007)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SMP200-2010/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SMP200 (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://hankookfa.github.io/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="screen-printing-equipment" />
+			
+			
+				<category term="Panasonic" />
+			
+				<category term="Panasonic Screen Printing Equipment" />
+			
+
+			<published>2017-02-17T00:00:00+09:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60d-mu-2008/</id>
+			<title>SP60D-MU (2008)</title>
+			<link href="https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60d-mu-2008/" rel="alternate" type="text/html" title="SP60D-MU (2008)" />
+			<updated>2017-02-17T00:00:00+09:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Hankook FA</name>
+					
+					
+						<email>hankookfa@hankookfa.com</email>
+					
+					
+						<uri>http://hankookfa.com/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60d-mu-2008/">&lt;ul&gt;
+  &lt;li&gt;Vintage: 2008&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;other-chip-mounters&quot;&gt;Other Chip Mounters&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+    
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/yamaha/yvp-xg-2007/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;YVP-Xg (2007)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/yamaha/yvp-xg-2006/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;YVP-Xg (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60p-l-2006/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP60P-L (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60p-l-2005/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP60P-L (2005)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60d-mu-2008/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP60D-MU (2008)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/dek/horizon02i-2005/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;Horizon 02i (2005)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SP450V-2006/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP450V (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SP450V-2005/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP450V (2005)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SP450V-2004/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP450V (2004)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SMP400-2010/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SMP400 (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SMP300-2007/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SMP300 (2007)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SMP200-2010/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SMP200 (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://hankookfa.github.io/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="screen-printing-equipment" />
+			
+			
+				<category term="Panasonic" />
+			
+				<category term="Panasonic Screen Printing Equipment" />
+			
+
+			<published>2017-02-17T00:00:00+09:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://hankookfa.github.io/smt-equipment/screen-printing-equipment/dek/horizon02i-2005/</id>
+			<title>Horizon 02i (2005)</title>
+			<link href="https://hankookfa.github.io/smt-equipment/screen-printing-equipment/dek/horizon02i-2005/" rel="alternate" type="text/html" title="Horizon 02i (2005)" />
+			<updated>2017-02-17T00:00:00+09:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Hankook FA</name>
+					
+					
+						<email>hankookfa@hankookfa.com</email>
+					
+					
+						<uri>http://hankookfa.com/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://hankookfa.github.io/smt-equipment/screen-printing-equipment/dek/horizon02i-2005/">&lt;ul&gt;
+  &lt;li&gt;Vintage: 2005&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;other-chip-mounters&quot;&gt;Other Chip Mounters&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+    
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/yamaha/yvp-xg-2007/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;YVP-Xg (2007)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/yamaha/yvp-xg-2006/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;YVP-Xg (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60p-l-2006/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP60P-L (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60p-l-2005/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP60P-L (2005)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60d-mu-2008/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP60D-MU (2008)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/dek/horizon02i-2005/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;Horizon 02i (2005)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SP450V-2006/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP450V (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SP450V-2005/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP450V (2005)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SP450V-2004/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP450V (2004)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SMP400-2010/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SMP400 (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SMP300-2007/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SMP300 (2007)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SMP200-2010/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SMP200 (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://hankookfa.github.io/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="screen-printing-equipment" />
+			
+			
+				<category term="DEK" />
+			
+				<category term="DEK Screen Printing Equipment" />
+			
+
+			<published>2017-02-17T00:00:00+09:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://hankookfa.github.io/smt-equipment/screen-printing-equipment/yamaha/</id>
+			<title>Yamaha</title>
+			<link href="https://hankookfa.github.io/smt-equipment/screen-printing-equipment/yamaha/" rel="alternate" type="text/html" title="Yamaha" />
+			<updated>2017-02-17T00:00:00+09:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Hankook FA</name>
+					
+					
+						<email>hankookfa@hankookfa.com</email>
+					
+					
+						<uri>http://hankookfa.com/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://hankookfa.github.io/smt-equipment/screen-printing-equipment/yamaha/">&lt;h2 class=&quot;t60&quot; id=&quot;yamahas-equipment&quot;&gt;Yamaha’s Equipment&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/yamaha/yvp-xg-2007/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;YVP-Xg (2007)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/yamaha/yvp-xg-2006/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;YVP-Xg (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="company" />
+			
+			
+
+			<published>2017-02-17T00:00:00+09:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/</id>
+			<title>Samsung</title>
+			<link href="https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/" rel="alternate" type="text/html" title="Samsung" />
+			<updated>2017-02-17T00:00:00+09:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Hankook FA</name>
+					
+					
+						<email>hankookfa@hankookfa.com</email>
+					
+					
+						<uri>http://hankookfa.com/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/">&lt;h2 class=&quot;t60&quot; id=&quot;samsungs-equipment&quot;&gt;Samsung’s Equipment&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SP450V-2006/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP450V (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SP450V-2005/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP450V (2005)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SP450V-2004/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP450V (2004)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SMP400-2010/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SMP400 (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SMP300-2007/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SMP300 (2007)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/samsung/SMP200-2010/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SMP200 (2010)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="company" />
+			
+			
+
+			<published>2017-02-17T00:00:00+09:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/</id>
+			<title>Panasonic</title>
+			<link href="https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/" rel="alternate" type="text/html" title="Panasonic" />
+			<updated>2017-02-17T00:00:00+09:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Hankook FA</name>
+					
+					
+						<email>hankookfa@hankookfa.com</email>
+					
+					
+						<uri>http://hankookfa.com/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/">&lt;h2 class=&quot;t60&quot; id=&quot;panasonics-equipment&quot;&gt;Panasonic’s Equipment&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60p-l-2006/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP60P-L (2006)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60p-l-2005/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP60P-L (2005)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/panasonic/sp60d-mu-2008/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;SP60D-MU (2008)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="company" />
+			
+			
+
+			<published>2017-02-17T00:00:00+09:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://hankookfa.github.io/smt-equipment/screen-printing-equipment/dek/</id>
+			<title>DEK</title>
+			<link href="https://hankookfa.github.io/smt-equipment/screen-printing-equipment/dek/" rel="alternate" type="text/html" title="DEK" />
+			<updated>2017-02-17T00:00:00+09:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Hankook FA</name>
+					
+					
+						<email>hankookfa@hankookfa.com</email>
+					
+					
+						<uri>http://hankookfa.com/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://hankookfa.github.io/smt-equipment/screen-printing-equipment/dek/">&lt;h2 class=&quot;t60&quot; id=&quot;deks-equipment&quot;&gt;DEK’s Equipment&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;https://hankookfa.github.io/smt-equipment/screen-printing-equipment/dek/horizon02i-2005/&quot;&gt;Screen Printing Equipment &amp;middot; &lt;strong&gt;Horizon 02i (2005)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="company" />
+			
+			
+
+			<published>2017-02-17T00:00:00+09:00</published>
 		</entry>
 	
 </feed>
