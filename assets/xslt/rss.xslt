@@ -209,7 +209,8 @@
 
               <li class="has-dropdown">
                 <a id="/smt-equipment/" href="https://hankookfa.github.io/en/smt-equipment/">Stock List</a>
-                  <ul class="dropdown">
+                <ul class="dropdown">
+                  <div class=""  style="overflow: auto; height: 400px;">
                     
                       
 
@@ -278,9 +279,8 @@
                         <li><a href="https://hankookfa.github.io/en/smt-equipment/others/">Others</a></li>
                       
                     
-
-                  </ul>
-
+                  </div>
+                </ul>
               </li>
               <li class="divider"></li>
             
@@ -297,7 +297,8 @@
 
               <li class="has-dropdown">
                 <a id="/brand-list/" href="https://hankookfa.github.io/en/brand-list/">Brands List</a>
-                  <ul class="dropdown">
+                <ul class="dropdown">
+                  <div class=""  style="overflow: auto; height: 400px;">
                     
                       
 
@@ -386,9 +387,8 @@
                         <li><a href="https://hankookfa.github.io/smt-equipment/others/">Others</a></li>
                       
                     
-
-                  </ul>
-
+                  </div>
+                </ul>
               </li>
               <li class="divider"></li>
             
