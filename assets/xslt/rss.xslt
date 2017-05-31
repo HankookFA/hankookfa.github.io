@@ -236,6 +236,11 @@
 
                         
 
+                        <li><a href="https://hankookfa.github.io/en/smt-equipment/dispensers/">Dispensers</a></li>
+                      
+
+                        
+
                         <li><a href="https://hankookfa.github.io/en/smt-equipment/loaders-unloaders/">Loader / Unloader</a></li>
                       
 
@@ -314,6 +319,11 @@
 
                         
 
+                        <li><a href="https://hankookfa.github.io/smt-equipment/sj-innotech/">SJ Innotech</a></li>
+                      
+
+                        
+
                         <li><a href="https://hankookfa.github.io/smt-equipment/panasert/">Panasert</a></li>
                       
 
@@ -330,6 +340,11 @@
                         
 
                         <li><a href="https://hankookfa.github.io/smt-equipment/fuji/">Fuji</a></li>
+                      
+
+                        
+
+                        <li><a href="https://hankookfa.github.io/smt-equipment/panasonic/">Panasonic</a></li>
                       
 
                         
