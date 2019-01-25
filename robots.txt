@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://hankookfa.github.io/sitemap.xml
