@@ -1,0 +1,137 @@
+- title-en: "Home"
+  title-kr: "Home"
+  title-cn: "Home"
+  url: "/"
+  side: left
+
+- title-en: "Stock List"
+  title-kr: "유휴 장비"
+  title-cn: "库存设备"
+  url: "/smt-equipment/"
+  side: left
+  dropdown:
+  - title: "Chip Mounters"
+    url: "/smt-equipment/chip-mounters/"
+  - title: "Feeders and Spare Parts"
+    url: "/smt-equipment/feeders-and-spare-parts/"
+  - title: "Reflow Ovens"
+    url: "/smt-equipment/reflow-ovens/"
+  - title: "Screen Printing Equipment"
+    url: "/smt-equipment/screen-printing-equipment/"
+  - title: "Dispensers"
+    url: "/smt-equipment/dispensers/"
+  - title: "Loader / Unloader"
+    url: "/smt-equipment/loaders-unloaders/"
+  - title: "Conveyors"
+    url: "/smt-equipment/conveyors/"
+  - title: "AOI and SPI"
+    url: "/smt-equipment/aoi-and-spi/"
+  - title: "X-Ray Equipment"
+    url: "/smt-equipment/x-ray-equipment/"
+  - title: "Wave Solder Equipment"
+    url: "/smt-equipment/wave-solder-equipment/"
+  - title: "Auto Insert Machines"
+    url: "/smt-equipment/auto-insert-machines/"
+  - title: "Tape & Reel Equipment"
+    url: "/smt-equipment/tape-and-reel-equipment/"
+  - title: "Inspection Equipment"
+    url: "/smt-equipment/inspection-equipment/"
+  - title: "Others"
+    url: "/smt-equipment/others/"
+
+- title-en: "Brands List"
+  title-kr: "취급 브랜드"
+  title-cn: "在做品牌"
+  url: "/brand-list/"
+  side: left
+  dropdown:
+  - title: "Samsung"
+    url: "/smt-equipment/samsung/"
+  - title: "Mirae"
+    url: "/smt-equipment/mirae/"
+  - title: "SJ Innotech"
+    url: "/smt-equipment/sj-innotech/"
+  - title: "Panasert"
+    url: "/smt-equipment/panasert/"
+  - title: "Yamaha"
+    url: "/smt-equipment/yamaha/"
+  - title: "Juki"
+    url: "/smt-equipment/juki/"
+  - title: "Fuji"
+    url: "/smt-equipment/fuji/"
+  - title: "Panasonic"
+    url: "/smt-equipment/panasonic/"
+  - title: "KME"
+    url: "/smt-equipment/kme/"
+  - title: "Sanyo"
+    url: "/smt-equipment/sanyo/"
+  - title: "Tenryu"
+    url: "/smt-equipment/tenryu/"
+  - title: "Heller"
+    url: "/smt-equipment/heller/"
+  - title: "TSM"
+    url: "/smt-equipment/tsm/"
+  - title: "Vitronics"
+    url: "/smt-equipment/vitronics/"
+  - title: "Universal"
+    url: "/smt-equipment/universal/"
+  - title: "Dynapert"
+    url: "/smt-equipment/dynapert/"
+  - title: "TDK"
+    url: "/smt-equipment/tdk/"
+  - title: "Agilent Technologies"
+    url: "/smt-equipment/agilent-technologies/"
+  - title: "Others"
+    url: "/smt-equipment/others/"
+
+- title-en: "Package Sale"
+  title-kr: "패키지 세일"
+  title-cn: "打包出售"
+  url: "/package-sale/"
+  side: left
+
+- title-en: "Items Wanted"
+  title-kr: "매입설비"
+  title-cn: "求购设备"
+  url: "/items-wanted/"
+  side: left
+
+
+
+
+
+# - title: Documentation
+#   url: "/documentation/"
+#   side: left
+#   dropdown:
+#   - title: "Changelog"
+#     url: "/changelog/"
+#   - title: "Roadmap"
+#     url: "/roadmap/"
+#
+# - title: Blog
+#   url: "/blog/"
+#   side: left
+#   dropdown:
+#   - title: "Blog Archive"
+#     url: "/blog/archive/"
+# - title: "Search"
+#   url: "/search/"
+#   side: right
+- title-en: "Language"
+  title-kr: "언어"
+  title-cn: "语言"
+  side: right
+  dropdown:
+  - title: "English"
+    url: "/en/"
+  - title: "Chinese"
+    url: "/cn/"
+  - title: "Korean"
+    url: "/kr/"
+
+- title-en: "Contact"
+  title-kr: "연락처"
+  title-cn: "联系方式"
+  url: "/contact/"
+  side: right
